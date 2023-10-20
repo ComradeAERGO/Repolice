@@ -1,8 +1,8 @@
 import Head from "next/head";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
+import { api } from "@/services/repolice";
 
-import { selectAuthState, setAuthState } from "@/store/slice";
 import { useDispatch, useSelector } from "react-redux";
 import { wrapper } from "@/store/store";
 import { Container, Grid } from "@mantine/core";
@@ -15,7 +15,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
     async ({ params }) => {
       // we can set the initial state from here
       // we are setting to false but you can run your custom logic here
-      await store.dispatch(setAuthState(false));
+      //await store.dispatch(setAuthState(false));
       console.log("State on server", store.getState());
       return {
         props: {
@@ -26,7 +26,6 @@ export const getServerSideProps = wrapper.getServerSideProps(
 );
 
 export default function Home() {
-  const authState = useSelector(selectAuthState);
   const dispatch = useDispatch();
 
   return (

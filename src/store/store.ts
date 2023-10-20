@@ -8,18 +8,26 @@ import { createWrapper } from "next-redux-wrapper";
 import { persistReducer, persistStore } from "redux-persist";
 import storage from "redux-persist/lib/storage";
 import { pollsSlice } from "./slices/polls";
+import { api } from "@/services/repolice";
+import { setupListeners } from "@reduxjs/toolkit/query";
 
 const rootReducer = combineReducers({
+  [api.reducerPath]: api.reducer,
   [pollsSlice.name]: pollsSlice.reducer,
-  [userVotesSlice.name]: userVotesSlice.reducer,
-  [userSlice.name]: userSlice.reducer,
+  //[userVotesSlice.name]: userVotesSlice.reducer,
+  //[userSlice.name]: userSlice.reducer,
 });
 
-const makeConfiguredStore = () =>
-  configureStore({
+const makeConfiguredStore = () => {
+  const store = configureStore({
     reducer: rootReducer,
+    middleware: (getDefaultMiddleware) =>
+      getDefaultMiddleware().concat(api.middleware),
     devTools: true,
   });
+  setupListeners(store.dispatch);
+  return store;
+};
 
 export const makeStore = () => {
   const isServer = typeof window === "undefined";
@@ -29,12 +37,13 @@ export const makeStore = () => {
     // we need it only on client side
     const persistConfig = {
       key: "nextjs",
-      whitelist: ["auth"], // make sure it does not clash with server keys
       storage,
     };
     const persistedReducer = persistReducer(persistConfig, rootReducer);
     let store: any = configureStore({
       reducer: persistedReducer,
+      middleware: (getDefaultMiddleware) =>
+        getDefaultMiddleware().concat(api.middleware),
       devTools: process.env.NODE_ENV !== "production",
     });
     store.__persistor = persistStore(store); // Nasty hack
