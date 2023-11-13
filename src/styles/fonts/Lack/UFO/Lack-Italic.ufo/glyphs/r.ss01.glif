@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.ss01" format="1">
+  <advance width="523"/>
+  <note>
+    r
+  </note>
+  <outline>
+    <contour>
+      <point x="-7" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="409" y="88" type="line"/>
+      <point x="239" y="88" type="line"/>
+      <point x="277" y="254" type="line" smooth="yes"/>
+      <point x="303" y="367"/>
+      <point x="401" y="444"/>
+      <point x="533" y="444" type="curve"/>
+      <point x="553" y="533" type="line"/>
+      <point x="443" y="533"/>
+      <point x="352" y="481"/>
+      <point x="315" y="417" type="curve"/>
+      <point x="338" y="518" type="line"/>
+      <point x="230" y="518" type="line"/>
+      <point x="131" y="88" type="line"/>
+      <point x="14" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="-9" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="284" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 14:43:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

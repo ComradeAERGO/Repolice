@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex.ss02" format="1">
+  <advance width="728"/>
+  <outline>
+    <contour>
+      <point x="233" y="-8" type="line"/>
+      <point x="648" y="-8" type="line"/>
+      <point x="648" y="110" type="line"/>
+      <point x="367" y="110" type="line"/>
+      <point x="367" y="589" type="line"/>
+      <point x="648" y="589" type="line"/>
+      <point x="648" y="707" type="line"/>
+      <point x="233" y="707" type="line"/>
+      <point x="233" y="412" type="line"/>
+      <point x="42" y="412" type="line"/>
+      <point x="42" y="294" type="line"/>
+      <point x="233" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="8" type="line"/>
+      <point x="249" y="310" type="line"/>
+      <point x="58" y="310" type="line"/>
+      <point x="58" y="396" type="line"/>
+      <point x="249" y="396" type="line"/>
+      <point x="249" y="691" type="line"/>
+      <point x="632" y="691" type="line"/>
+      <point x="632" y="605" type="line"/>
+      <point x="351" y="605" type="line"/>
+      <point x="351" y="94" type="line"/>
+      <point x="632" y="94" type="line"/>
+      <point x="632" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="740" type="line"/>
+      <point x="390" y="740" type="line"/>
+      <point x="447" y="817" type="line"/>
+      <point x="503" y="740" type="line"/>
+      <point x="622" y="740" type="line"/>
+      <point x="507" y="927" type="line"/>
+      <point x="386" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="756" type="line"/>
+      <point x="394" y="911" type="line"/>
+      <point x="499" y="911" type="line"/>
+      <point x="594" y="756" type="line"/>
+      <point x="511" y="756" type="line"/>
+      <point x="447" y="845" type="line"/>
+      <point x="382" y="756" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:23:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

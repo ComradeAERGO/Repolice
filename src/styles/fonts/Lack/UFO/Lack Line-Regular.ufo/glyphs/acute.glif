@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="263"/>
+  <unicode hex="00B4"/>
+  <note>
+    acute
+  </note>
+  <outline>
+    <contour>
+      <point x="7" y="578" type="line"/>
+      <point x="125" y="578" type="line"/>
+      <point x="259" y="765" type="line"/>
+      <point x="105" y="765" type="line"/>
+    </contour>
+    <contour>
+      <point x="33" y="594" type="line"/>
+      <point x="115" y="749" type="line"/>
+      <point x="227" y="749" type="line"/>
+      <point x="117" y="594" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

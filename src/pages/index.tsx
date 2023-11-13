@@ -1,33 +1,45 @@
 import Head from "next/head";
-import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
-import { api } from "@/services/repolice";
 
-import { useDispatch, useSelector } from "react-redux";
-import { wrapper } from "@/store/store";
+import { useDispatch } from "react-redux";
 import { Container, Grid } from "@mantine/core";
-import HeroSection from "@/components/HeroSection";
+import { useAccount } from "wagmi";
+import { useRepoliceGetPolls, useRepolicePolls } from "@/RepoliceABI";
+import CreatePollCta from "@/components/CreatePollCTA";
+import styled from "styled-components";
+import { SEPOLIA_ADDRESS } from "@/domain/Contract";
+import { Poll } from "@/components/Poll";
 
-const inter = Inter({ subsets: ["latin"] });
+const Island = styled.div`
+  display: flex;
+  padding: 1rem;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+`;
 
-export const getServerSideProps = wrapper.getServerSideProps(
-  (store) =>
-    async ({ params }) => {
-      // we can set the initial state from here
-      // we are setting to false but you can run your custom logic here
-      //await store.dispatch(setAuthState(false));
-      console.log("State on server", store.getState());
-      return {
-        props: {
-          authState: false,
-        },
-      };
-    }
-);
+const Polls = styled.div`
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 1rem;
+`;
+
+const Title = styled.h1`
+  color: var(--secondary);
+  font-size: 3rem;
+  text-align: center;
+`;
 
 export default function Home() {
   const dispatch = useDispatch();
+  const { address } = useAccount();
+  const { data } = useRepoliceGetPolls({ address: SEPOLIA_ADDRESS });
 
+  console.info("Connected Wallet Address", address);
+  console.info("useRepoliceGetPolls", data);
   return (
     <>
       <Head>
@@ -36,20 +48,21 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className={`${styles.main} ${inter.className}`}>
+      <main className={`${styles.main}`}>
         <Container>
-          <h1>Repolice: Trustless Polling on Blockchain</h1>
+          <h1>Repolice - Trustless Polling</h1>
 
-          <HeroSection />
+          {/* <HeroSection /> */}
 
-          <Grid>
-            <Grid.Col span={8}>{/* <ExplorePolls /> */}</Grid.Col>
-
-            <Grid.Col span={4}>
-              {/* <CreatePollCta /> */}
-              {/* <UserStats /> */}
-            </Grid.Col>
-          </Grid>
+          <Island>
+            <CreatePollCta />
+            <Polls>
+              {data?.map((poll) => (
+                <Poll {...poll} />
+              ))}
+            </Polls>
+            {/* <UserStats /> */}
+          </Island>
 
           {/* <HowItWorks /> */}
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.osf" format="1">
+  <advance width="528"/>
+  <note>
+    four
+  </note>
+  <outline>
+    <contour>
+      <point x="282" y="1" type="line"/>
+      <point x="388" y="1" type="line"/>
+      <point x="455" y="292" type="line"/>
+      <point x="210" y="292" type="line"/>
+      <point x="529" y="699" type="line"/>
+      <point x="423" y="699" type="line"/>
+      <point x="33" y="206" type="line"/>
+      <point x="329" y="206" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 13:15:39 +0000</string>
+    </dict>
+  </lib>
+</glyph>

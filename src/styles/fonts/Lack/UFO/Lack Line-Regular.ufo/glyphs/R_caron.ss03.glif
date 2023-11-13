@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron.ss03" format="1">
+  <advance width="695"/>
+  <outline>
+    <contour>
+      <point x="13" y="-8" type="line"/>
+      <point x="165" y="-8" type="line"/>
+      <point x="324" y="256" type="line"/>
+      <point x="527" y="-8" type="line"/>
+      <point x="697" y="-8" type="line"/>
+      <point x="444" y="303" type="line"/>
+      <point x="535" y="330"/>
+      <point x="596" y="408"/>
+      <point x="596" y="502" type="curve" smooth="yes"/>
+      <point x="596" y="627"/>
+      <point x="498" y="726"/>
+      <point x="374" y="722" type="curve"/>
+      <point x="374" y="598" type="line"/>
+      <point x="422" y="604"/>
+      <point x="469" y="553"/>
+      <point x="469" y="498" type="curve" smooth="yes"/>
+      <point x="469" y="446"/>
+      <point x="427" y="398"/>
+      <point x="382" y="398" type="curve" smooth="yes"/>
+      <point x="361" y="398"/>
+      <point x="340" y="407"/>
+      <point x="324" y="421" type="curve"/>
+      <point x="305" y="445" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="8" type="line"/>
+      <point x="307" y="417" type="line"/>
+      <point x="312" y="411" type="line"/>
+      <point x="331" y="392"/>
+      <point x="356" y="382"/>
+      <point x="382" y="382" type="curve" smooth="yes"/>
+      <point x="436" y="382"/>
+      <point x="485" y="437"/>
+      <point x="485" y="498" type="curve" smooth="yes"/>
+      <point x="485" y="556"/>
+      <point x="441" y="609"/>
+      <point x="390" y="614" type="curve"/>
+      <point x="390" y="706" type="line"/>
+      <point x="497" y="702"/>
+      <point x="580" y="614"/>
+      <point x="580" y="502" type="curve" smooth="yes"/>
+      <point x="580" y="408"/>
+      <point x="513" y="330"/>
+      <point x="415" y="313" type="curve"/>
+      <point x="663" y="8" type="line"/>
+      <point x="535" y="8" type="line"/>
+      <point x="322" y="284" type="line"/>
+      <point x="155" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="740" type="line"/>
+      <point x="381" y="740" type="line"/>
+      <point x="496" y="927" type="line"/>
+      <point x="377" y="927" type="line"/>
+      <point x="321" y="850" type="line"/>
+      <point x="264" y="927" type="line"/>
+      <point x="145" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="756" type="line"/>
+      <point x="173" y="911" type="line"/>
+      <point x="256" y="911" type="line"/>
+      <point x="321" y="822" type="line"/>
+      <point x="385" y="911" type="line"/>
+      <point x="468" y="911" type="line"/>
+      <point x="373" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:23:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

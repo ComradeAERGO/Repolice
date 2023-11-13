@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="1">
+  <advance width="655"/>
+  <unicode hex="03A5"/>
+  <outline>
+    <contour>
+      <point x="273" y="0" type="line"/>
+      <point x="383" y="0" type="line"/>
+      <point x="383" y="291" type="line"/>
+      <point x="646" y="679" type="line"/>
+      <point x="522" y="679" type="line"/>
+      <point x="328" y="386" type="line"/>
+      <point x="133" y="679" type="line"/>
+      <point x="9" y="679" type="line"/>
+      <point x="273" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustraight-cy" format="1">
+  <advance width="510"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="141" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="296" y="202" type="line"/>
+      <point x="565" y="518" type="line"/>
+      <point x="439" y="518" type="line"/>
+      <point x="221" y="256" type="line"/>
+      <point x="280" y="247" type="line"/>
+      <point x="180" y="518" type="line"/>
+      <point x="65" y="518" type="line"/>
+      <point x="188" y="202" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 15:19:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="340"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <component base="period" xOffset="10" yOffset="273"/>
+    <contour>
+      <point x="172" y="355" type="move" name="_middle"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 13:36:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

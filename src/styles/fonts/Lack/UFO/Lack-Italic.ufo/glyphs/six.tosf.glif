@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.tosf" format="1">
+  <advance width="589"/>
+  <note>
+    six
+  </note>
+  <outline>
+    <contour>
+      <point x="228" y="-14" type="curve" smooth="yes"/>
+      <point x="345" y="-14"/>
+      <point x="460" y="77"/>
+      <point x="486" y="189" type="curve" smooth="yes"/>
+      <point x="514" y="308"/>
+      <point x="429" y="405"/>
+      <point x="299" y="391" type="curve"/>
+      <point x="314" y="358" type="line"/>
+      <point x="595" y="629" type="line"/>
+      <point x="468" y="629" type="line"/>
+      <point x="190" y="364"/>
+      <point x="131" y="307"/>
+      <point x="124" y="300" type="curve" smooth="yes"/>
+      <point x="94" y="268"/>
+      <point x="73" y="230"/>
+      <point x="64" y="189" type="curve" smooth="yes"/>
+      <point x="38" y="77"/>
+      <point x="111" y="-14"/>
+    </contour>
+    <contour>
+      <point x="250" y="81" type="curve" smooth="yes"/>
+      <point x="188" y="81"/>
+      <point x="153" y="129"/>
+      <point x="167" y="189" type="curve" smooth="yes"/>
+      <point x="181" y="250"/>
+      <point x="238" y="298"/>
+      <point x="300" y="298" type="curve" smooth="yes"/>
+      <point x="363" y="298"/>
+      <point x="398" y="250"/>
+      <point x="384" y="189" type="curve" smooth="yes"/>
+      <point x="370" y="129"/>
+      <point x="313" y="81"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 15:43:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

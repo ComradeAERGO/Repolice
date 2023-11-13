@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Che-cy" format="1">
+  <advance width="700"/>
+  <unicode hex="0427"/>
+  <outline>
+    <contour>
+      <point x="501" y="0" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="610" y="679" type="line"/>
+      <point x="501" y="679" type="line"/>
+      <point x="501" y="294" type="line"/>
+      <point x="453" y="289"/>
+      <point x="385" y="283"/>
+      <point x="315" y="283" type="curve" smooth="yes"/>
+      <point x="227" y="283"/>
+      <point x="154" y="308"/>
+      <point x="154" y="429" type="curve" smooth="yes"/>
+      <point x="154" y="679" type="line"/>
+      <point x="45" y="679" type="line"/>
+      <point x="45" y="429" type="line" smooth="yes"/>
+      <point x="45" y="248"/>
+      <point x="162" y="179"/>
+      <point x="315" y="179" type="curve" smooth="yes"/>
+      <point x="388" y="179"/>
+      <point x="460" y="187"/>
+      <point x="501" y="193" type="curve"/>
+    </contour>
+    <contour>
+      <point x="327" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

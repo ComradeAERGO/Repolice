@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdown" format="1">
+  <advance width="532"/>
+  <unicode hex="2193"/>
+  <note>
+    arrowdown
+  </note>
+  <outline>
+    <contour>
+      <point x="224" y="-8" type="line"/>
+      <point x="308" y="-8" type="line"/>
+      <point x="547" y="340" type="line"/>
+      <point x="406" y="340" type="line"/>
+      <point x="317" y="177" type="line"/>
+      <point x="329" y="685" type="line"/>
+      <point x="204" y="685" type="line"/>
+      <point x="216" y="176" type="line"/>
+      <point x="126" y="342" type="line"/>
+      <point x="-15" y="342" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="8" type="line"/>
+      <point x="15" y="326" type="line"/>
+      <point x="116" y="326" type="line"/>
+      <point x="234" y="110" type="line"/>
+      <point x="220" y="669" type="line"/>
+      <point x="313" y="669" type="line"/>
+      <point x="299" y="111" type="line"/>
+      <point x="416" y="324" type="line"/>
+      <point x="517" y="324" type="line"/>
+      <point x="300" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

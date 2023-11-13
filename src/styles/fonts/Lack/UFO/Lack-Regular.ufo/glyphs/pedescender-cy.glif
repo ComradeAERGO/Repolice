@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pedescender-cy" format="1">
+  <advance width="713"/>
+  <unicode hex="0525"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="188" y="349" type="line"/>
+      <point x="463" y="349" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="571" y="0" type="line"/>
+      <point x="571" y="437" type="line"/>
+      <point x="80" y="437" type="line"/>
+    </contour>
+    <component base="cy-term" xOffset="236"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

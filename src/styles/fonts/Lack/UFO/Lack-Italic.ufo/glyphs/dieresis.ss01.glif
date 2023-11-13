@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.ss01" format="1">
+  <advance width="343"/>
+  <note>
+    dieresis
+  </note>
+  <outline>
+    <component base="dieresis" yxScale="-0.231" xOffset="44"/>
+    <contour>
+      <point x="112" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:23:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

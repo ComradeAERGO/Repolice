@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kappa" format="1">
+  <advance width="546"/>
+  <unicode hex="03BA"/>
+  <note>
+    kappa
+  </note>
+  <outline>
+    <contour>
+      <point x="10" y="-8" type="line"/>
+      <point x="134" y="-8" type="line"/>
+      <point x="175" y="170" type="line"/>
+      <point x="264" y="245" type="line"/>
+      <point x="363" y="-8" type="line"/>
+      <point x="498" y="-8" type="line"/>
+      <point x="359" y="322" type="line"/>
+      <point x="597" y="525" type="line"/>
+      <point x="439" y="525" type="line"/>
+      <point x="212" y="327" type="line"/>
+      <point x="258" y="525" type="line"/>
+      <point x="134" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="8" type="line"/>
+      <point x="146" y="509" type="line"/>
+      <point x="238" y="509" type="line"/>
+      <point x="186" y="283" type="line"/>
+      <point x="445" y="509" type="line"/>
+      <point x="553" y="509" type="line"/>
+      <point x="339" y="326" type="line"/>
+      <point x="474" y="8" type="line"/>
+      <point x="373" y="8" type="line"/>
+      <point x="270" y="271" type="line"/>
+      <point x="161" y="178" type="line"/>
+      <point x="122" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

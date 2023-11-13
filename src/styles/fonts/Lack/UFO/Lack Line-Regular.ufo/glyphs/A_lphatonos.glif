@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphatonos" format="1">
+  <advance width="753"/>
+  <unicode hex="0386"/>
+  <note>
+    Alphatonos
+  </note>
+  <outline>
+    <contour>
+      <point x="9" y="-8" type="line"/>
+      <point x="153" y="-8" type="line"/>
+      <point x="218" y="153" type="line"/>
+      <point x="535" y="153" type="line"/>
+      <point x="600" y="-8" type="line"/>
+      <point x="744" y="-8" type="line"/>
+      <point x="435" y="687" type="line"/>
+      <point x="318" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="33" y="8" type="line"/>
+      <point x="328" y="671" type="line"/>
+      <point x="425" y="671" type="line"/>
+      <point x="720" y="8" type="line"/>
+      <point x="610" y="8" type="line"/>
+      <point x="545" y="169" type="line"/>
+      <point x="208" y="169" type="line"/>
+      <point x="143" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="271" type="line"/>
+      <point x="377" y="532" type="line"/>
+      <point x="487" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="255" type="line"/>
+      <point x="511" y="255" type="line"/>
+      <point x="377" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="740" type="line"/>
+      <point x="426" y="740" type="line"/>
+      <point x="560" y="927" type="line"/>
+      <point x="406" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="756" type="line"/>
+      <point x="416" y="911" type="line"/>
+      <point x="528" y="911" type="line"/>
+      <point x="418" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

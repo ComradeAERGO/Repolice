@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.ss02" format="1">
+  <advance width="728"/>
+  <note>
+    T
+  </note>
+  <outline>
+    <contour>
+      <point x="303" y="252" type="line"/>
+      <point x="420" y="252" type="line"/>
+      <point x="500" y="598" type="line"/>
+      <point x="768" y="598" type="line"/>
+      <point x="792" y="699" type="line"/>
+      <point x="140" y="699" type="line"/>
+      <point x="116" y="598" type="line"/>
+      <point x="383" y="598" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:26:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iota" format="1">
+  <advance width="289"/>
+  <unicode hex="0399"/>
+  <note>
+    Iota
+  </note>
+  <outline>
+    <contour>
+      <point x="82" y="-8" type="line"/>
+      <point x="207" y="-8" type="line"/>
+      <point x="207" y="687" type="line"/>
+      <point x="82" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="8" type="line"/>
+      <point x="98" y="671" type="line"/>
+      <point x="191" y="671" type="line"/>
+      <point x="191" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

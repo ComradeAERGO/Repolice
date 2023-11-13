@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cheverticalstroke-cy" format="1">
+  <advance width="700"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <component base="strokeshortcomb" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="34" yOffset="416"/>
+    <component base="Che-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-24 13:34:50 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Che-cy</string>
+    </dict>
+  </lib>
+</glyph>

@@ -189,6 +189,12 @@ contract Repolice is Ownable {
         emit PollEnded(_pollId);
     }
 
+    /// @notice Retrive all polls
+    /// @return Poll array
+    function getPolls() public view returns (Poll[] memory) {
+        return polls;
+    }
+
     /// @notice Retrieve poll by its ID
     /// @param _pollId The poll ID
     /// @return Poll object

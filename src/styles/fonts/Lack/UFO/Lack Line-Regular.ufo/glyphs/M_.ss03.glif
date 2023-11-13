@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.ss03" format="1">
+  <advance width="856"/>
+  <note>
+    M.ss03
+  </note>
+  <outline>
+    <contour>
+      <point x="106" y="-8" type="line"/>
+      <point x="240" y="-8" type="line"/>
+      <point x="616" y="506" type="line"/>
+      <point x="616" y="-8" type="line"/>
+      <point x="750" y="-8" type="line"/>
+      <point x="750" y="708" type="line"/>
+      <point x="620" y="708" type="line"/>
+      <point x="434" y="449" type="line"/>
+      <point x="273" y="708" type="line"/>
+      <point x="106" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="8" type="line"/>
+      <point x="122" y="692" type="line"/>
+      <point x="265" y="692" type="line"/>
+      <point x="432" y="421" type="line"/>
+      <point x="628" y="692" type="line"/>
+      <point x="734" y="692" type="line"/>
+      <point x="734" y="8" type="line"/>
+      <point x="632" y="8" type="line"/>
+      <point x="632" y="556" type="line"/>
+      <point x="232" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="180" type="line"/>
+      <point x="238" y="542" type="line"/>
+      <point x="354" y="344" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="130" type="line"/>
+      <point x="372" y="344" type="line"/>
+      <point x="222" y="602" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

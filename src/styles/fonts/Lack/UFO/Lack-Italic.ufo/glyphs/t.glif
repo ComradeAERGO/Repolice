@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="502"/>
+  <unicode hex="0074"/>
+  <note>
+    t
+  </note>
+  <outline>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="355" y="443" type="line"/>
+      <point x="532" y="443" type="line"/>
+      <point x="552" y="531" type="line"/>
+      <point x="375" y="531" type="line"/>
+      <point x="413" y="696" type="line"/>
+      <point x="48" y="443" type="line"/>
+      <point x="247" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="384" y="401" type="move" name="caron-t"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:09:36 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="de-cy" format="1">
+  <advance width="684"/>
+  <unicode hex="0434"/>
+  <outline>
+    <contour>
+      <point x="40" y="-125" type="line"/>
+      <point x="148" y="-125" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="526" y="-125" type="line"/>
+      <point x="634" y="-125" type="line"/>
+      <point x="634" y="88" type="line"/>
+      <point x="553" y="88" type="line"/>
+      <point x="553" y="517" type="line"/>
+      <point x="165" y="517" type="line"/>
+      <point x="165" y="323"/>
+      <point x="126" y="158"/>
+      <point x="108" y="88" type="curve"/>
+      <point x="40" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="88" type="line"/>
+      <point x="232" y="176"/>
+      <point x="257" y="330"/>
+      <point x="262" y="415" type="curve"/>
+      <point x="444" y="415" type="line"/>
+      <point x="444" y="88" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:02:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

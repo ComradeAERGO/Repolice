@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave.ss02" format="1">
+  <advance width="827"/>
+  <outline>
+    <contour>
+      <point x="17" y="-8" type="line"/>
+      <point x="814" y="-8" type="line"/>
+      <point x="411" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="8" type="line"/>
+      <point x="411" y="704" type="line"/>
+      <point x="788" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="107" type="line"/>
+      <point x="412" y="475" type="line"/>
+      <point x="599" y="109" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="91" type="line"/>
+      <point x="625" y="93" type="line"/>
+      <point x="412" y="511" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="740" type="line"/>
+      <point x="476" y="740" type="line"/>
+      <point x="378" y="927" type="line"/>
+      <point x="224" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="756" type="line"/>
+      <point x="256" y="911" type="line"/>
+      <point x="368" y="911" type="line"/>
+      <point x="450" y="756" type="line"/>
+    </contour>
+    <contour>
+      <point x="801" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="414" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:23:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

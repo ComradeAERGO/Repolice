@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="1">
+  <advance width="525"/>
+  <unicode hex="03C7"/>
+  <note>
+    chi
+  </note>
+  <outline>
+    <contour>
+      <point x="-13" y="-224" type="line"/>
+      <point x="123" y="-224" type="line"/>
+      <point x="262" y="71" type="line"/>
+      <point x="402" y="-224" type="line"/>
+      <point x="538" y="-224" type="line"/>
+      <point x="340" y="178" type="line"/>
+      <point x="505" y="525" type="line"/>
+      <point x="369" y="525" type="line"/>
+      <point x="266" y="288" type="line"/>
+      <point x="155" y="525" type="line"/>
+      <point x="20" y="525" type="line"/>
+      <point x="185" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="-208" type="line"/>
+      <point x="203" y="184" type="line"/>
+      <point x="46" y="509" type="line"/>
+      <point x="145" y="509" type="line"/>
+      <point x="266" y="250" type="line"/>
+      <point x="379" y="509" type="line"/>
+      <point x="479" y="509" type="line"/>
+      <point x="322" y="178" type="line"/>
+      <point x="512" y="-208" type="line"/>
+      <point x="412" y="-208" type="line"/>
+      <point x="262" y="109" type="line"/>
+      <point x="113" y="-208" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

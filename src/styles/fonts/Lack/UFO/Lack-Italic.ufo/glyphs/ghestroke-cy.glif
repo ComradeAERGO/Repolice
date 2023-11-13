@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghestroke-cy" format="1">
+  <advance width="559"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="201" y="220" type="line"/>
+      <point x="409" y="220" type="line"/>
+      <point x="429" y="308" type="line"/>
+      <point x="221" y="308" type="line"/>
+      <point x="249" y="429" type="line"/>
+      <point x="578" y="429" type="line"/>
+      <point x="599" y="517" type="line"/>
+      <point x="162" y="517" type="line"/>
+      <point x="113" y="308" type="line"/>
+      <point x="31" y="308" type="line"/>
+      <point x="11" y="220" type="line"/>
+      <point x="93" y="220" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:33:14 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

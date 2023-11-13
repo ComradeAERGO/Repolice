@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.ss01" format="1">
+  <advance width="417"/>
+  <note>
+    breve.ss01
+  </note>
+  <outline>
+    <contour>
+      <point x="79" y="593" type="line"/>
+      <point x="492" y="593" type="line"/>
+      <point x="519" y="709" type="line"/>
+      <point x="106" y="709" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="609" type="line"/>
+      <point x="118" y="693" type="line"/>
+      <point x="499" y="693" type="line"/>
+      <point x="480" y="609" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

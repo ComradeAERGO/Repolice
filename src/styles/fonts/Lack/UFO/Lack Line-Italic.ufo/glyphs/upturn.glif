@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upturn" format="1">
+  <advance width="109"/>
+  <note>
+    upturn
+  </note>
+  <outline>
+    <contour>
+      <point x="-111" y="-189" type="line"/>
+      <point x="14" y="-189" type="line"/>
+      <point x="71" y="60" type="line"/>
+      <point x="-54" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="-91" y="-173" type="line"/>
+      <point x="-42" y="44" type="line"/>
+      <point x="51" y="44" type="line"/>
+      <point x="2" y="-173" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

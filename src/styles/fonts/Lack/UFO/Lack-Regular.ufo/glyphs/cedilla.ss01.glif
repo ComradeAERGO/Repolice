@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla.ss01" format="1">
+  <advance width="158"/>
+  <outline>
+    <contour>
+      <point x="20" y="-170" type="line"/>
+      <point x="138" y="-170" type="line"/>
+      <point x="138" y="9" type="line"/>
+      <point x="20" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="79" y="8" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 21:06:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

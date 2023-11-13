@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emtail-cy" format="1">
+  <advance width="831"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <contour>
+      <point x="559" y="-179" type="line"/>
+      <point x="650" y="-179" type="line"/>
+      <point x="785" y="52" type="line"/>
+      <point x="682" y="52" type="line"/>
+    </contour>
+    <component base="M"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:26:12 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

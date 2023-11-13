@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tf" format="1">
+  <advance width="600"/>
+  <note>
+    one
+  </note>
+  <outline>
+    <contour>
+      <point x="95" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="506" y="96" type="line"/>
+      <point x="364" y="96" type="line"/>
+      <point x="364" y="679" type="line"/>
+      <point x="95" y="679" type="line"/>
+      <point x="95" y="584" type="line"/>
+      <point x="255" y="584" type="line"/>
+      <point x="255" y="96" type="line"/>
+      <point x="95" y="96" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="310" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

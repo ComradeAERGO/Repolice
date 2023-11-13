@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhe-cy" format="1">
+  <advance width="750"/>
+  <unicode hex="0436"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="326" y="253" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="424" y="253" type="line"/>
+      <point x="591" y="0" type="line"/>
+      <point x="710" y="0" type="line"/>
+      <point x="517" y="284" type="line"/>
+      <point x="710" y="517" type="line"/>
+      <point x="591" y="517" type="line"/>
+      <point x="424" y="301" type="line"/>
+      <point x="424" y="517" type="line"/>
+      <point x="326" y="517" type="line"/>
+      <point x="326" y="301" type="line"/>
+      <point x="159" y="517" type="line"/>
+      <point x="40" y="517" type="line"/>
+      <point x="233" y="284" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 10:48:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

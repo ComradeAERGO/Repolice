@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="We-cy" format="1">
+  <advance width="912"/>
+  <unicode hex="051C"/>
+  <outline>
+    <contour>
+      <point x="99" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="438" y="498" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="609" y="0" type="line"/>
+      <point x="912" y="679" type="line"/>
+      <point x="798" y="679" type="line"/>
+      <point x="571" y="159" type="line"/>
+      <point x="527" y="679" type="line"/>
+      <point x="405" y="679" type="line"/>
+      <point x="193" y="180" type="line"/>
+      <point x="134" y="679" type="line"/>
+      <point x="20" y="679" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 10:44:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

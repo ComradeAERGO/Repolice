@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron.ss03" format="1">
+  <advance width="733"/>
+  <outline>
+    <contour>
+      <point x="26" y="-8" type="line"/>
+      <point x="721" y="-8" type="line"/>
+      <point x="452" y="385" type="line"/>
+      <point x="604" y="604" type="line"/>
+      <point x="604" y="707" type="line"/>
+      <point x="93" y="707" type="line"/>
+      <point x="93" y="589" type="line"/>
+      <point x="439" y="589" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="8" type="line"/>
+      <point x="469" y="605" type="line"/>
+      <point x="109" y="605" type="line"/>
+      <point x="109" y="691" type="line"/>
+      <point x="588" y="691" type="line"/>
+      <point x="588" y="610" type="line"/>
+      <point x="432" y="385" type="line"/>
+      <point x="691" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="110" type="line"/>
+      <point x="374" y="272" type="line"/>
+      <point x="485" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="94" type="line"/>
+      <point x="515" y="94" type="line"/>
+      <point x="374" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="740" type="line"/>
+      <point x="402" y="740" type="line"/>
+      <point x="517" y="927" type="line"/>
+      <point x="398" y="927" type="line"/>
+      <point x="342" y="850" type="line"/>
+      <point x="285" y="927" type="line"/>
+      <point x="166" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="756" type="line"/>
+      <point x="194" y="911" type="line"/>
+      <point x="277" y="911" type="line"/>
+      <point x="342" y="822" type="line"/>
+      <point x="406" y="911" type="line"/>
+      <point x="489" y="911" type="line"/>
+      <point x="394" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:23:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upturn" format="1">
+  <advance width="109"/>
+  <outline>
+    <contour>
+      <point x="-101" y="-181" type="line"/>
+      <point x="8" y="-181" type="line"/>
+      <point x="61" y="52" type="line"/>
+      <point x="-48" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:30:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

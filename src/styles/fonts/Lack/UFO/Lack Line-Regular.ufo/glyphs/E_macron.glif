@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron" format="1">
+  <advance width="642"/>
+  <unicode hex="0112"/>
+  <note>
+    Emacron
+  </note>
+  <outline>
+    <contour>
+      <point x="82" y="-8" type="line"/>
+      <point x="600" y="-8" type="line"/>
+      <point x="600" y="110" type="line"/>
+      <point x="207" y="110" type="line"/>
+      <point x="207" y="303" type="line"/>
+      <point x="515" y="303" type="line"/>
+      <point x="515" y="421" type="line"/>
+      <point x="207" y="421" type="line"/>
+      <point x="207" y="569" type="line"/>
+      <point x="594" y="569" type="line"/>
+      <point x="594" y="687" type="line"/>
+      <point x="82" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="8" type="line"/>
+      <point x="98" y="671" type="line"/>
+      <point x="578" y="671" type="line"/>
+      <point x="578" y="585" type="line"/>
+      <point x="191" y="585" type="line"/>
+      <point x="191" y="405" type="line"/>
+      <point x="499" y="405" type="line"/>
+      <point x="499" y="319" type="line"/>
+      <point x="191" y="319" type="line"/>
+      <point x="191" y="94" type="line"/>
+      <point x="584" y="94" type="line"/>
+      <point x="584" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="755" type="line"/>
+      <point x="487" y="755" type="line"/>
+      <point x="487" y="861" type="line"/>
+      <point x="194" y="861" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="771" type="line"/>
+      <point x="210" y="845" type="line"/>
+      <point x="471" y="845" type="line"/>
+      <point x="471" y="771" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis-cy" format="1">
+  <advance width="753"/>
+  <unicode hex="04D2"/>
+  <outline>
+    <component base="A-cy"/>
+    <component base="dieresiscomb" xOffset="202" yOffset="162"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-30 12:47:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

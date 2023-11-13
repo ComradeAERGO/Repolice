@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L.ss02" format="1">
+  <advance width="681"/>
+  <note>
+    L.ss02
+  </note>
+  <outline>
+    <contour>
+      <point x="44" y="-8" type="line"/>
+      <point x="564" y="-8" type="line"/>
+      <point x="592" y="110" type="line"/>
+      <point x="206" y="110" type="line"/>
+      <point x="344" y="707" type="line"/>
+      <point x="210" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="8" type="line"/>
+      <point x="222" y="691" type="line"/>
+      <point x="324" y="691" type="line"/>
+      <point x="186" y="94" type="line"/>
+      <point x="572" y="94" type="line"/>
+      <point x="552" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

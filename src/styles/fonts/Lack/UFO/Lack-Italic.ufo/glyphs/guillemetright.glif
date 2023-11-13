@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetright" format="1">
+  <advance width="414"/>
+  <unicode hex="00BB"/>
+  <note>
+    guillemotright
+  </note>
+  <outline>
+    <contour>
+      <point x="174" y="60" type="line"/>
+      <point x="292" y="60" type="line"/>
+      <point x="469" y="264" type="line"/>
+      <point x="384" y="458" type="line"/>
+      <point x="266" y="458" type="line"/>
+      <point x="351" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16" y="60" type="line"/>
+      <point x="102" y="60" type="line"/>
+      <point x="279" y="264" type="line"/>
+      <point x="194" y="458" type="line"/>
+      <point x="76" y="458" type="line"/>
+      <point x="161" y="264" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:15:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

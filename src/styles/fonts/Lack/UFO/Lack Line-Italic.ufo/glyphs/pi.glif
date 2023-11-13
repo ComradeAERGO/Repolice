@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="1">
+  <advance width="650"/>
+  <unicode hex="03C0"/>
+  <note>
+    pi
+  </note>
+  <outline>
+    <contour>
+      <point x="81" y="-8" type="line"/>
+      <point x="205" y="-8" type="line"/>
+      <point x="304" y="421" type="line"/>
+      <point x="423" y="421" type="line"/>
+      <point x="324" y="-8" type="line"/>
+      <point x="448" y="-8" type="line"/>
+      <point x="547" y="421" type="line"/>
+      <point x="655" y="421" type="line"/>
+      <point x="680" y="525" type="line"/>
+      <point x="94" y="525" type="line"/>
+      <point x="69" y="421" type="line"/>
+      <point x="180" y="421" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="8" type="line"/>
+      <point x="200" y="437" type="line"/>
+      <point x="89" y="437" type="line"/>
+      <point x="106" y="509" type="line"/>
+      <point x="660" y="509" type="line"/>
+      <point x="643" y="437" type="line"/>
+      <point x="535" y="437" type="line"/>
+      <point x="436" y="8" type="line"/>
+      <point x="344" y="8" type="line"/>
+      <point x="443" y="437" type="line"/>
+      <point x="292" y="437" type="line"/>
+      <point x="193" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

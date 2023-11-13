@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.ss03" format="1">
+  <advance width="345"/>
+  <note>
+    I.ss03
+  </note>
+  <outline>
+    <contour>
+      <point x="44" y="-8" type="line"/>
+      <point x="177" y="-8" type="line"/>
+      <point x="343" y="707" type="line"/>
+      <point x="210" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="8" type="line"/>
+      <point x="222" y="691" type="line"/>
+      <point x="323" y="691" type="line"/>
+      <point x="165" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeru-cy" format="1">
+  <advance width="268"/>
+  <unicode hex="044B"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="248" y="517" type="line"/>
+      <point x="140" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="327" y="401" type="move" name="caron-t"/>
+    </contour>
+    <contour>
+      <point x="222" y="368" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="192" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:41:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>l</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

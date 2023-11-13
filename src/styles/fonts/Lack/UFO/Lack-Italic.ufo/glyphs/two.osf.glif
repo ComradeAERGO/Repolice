@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.osf" format="1">
+  <advance width="552"/>
+  <note>
+    two
+  </note>
+  <outline>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="451" y="96" type="line"/>
+      <point x="217" y="96" type="line"/>
+      <point x="397" y="255" type="line" smooth="yes"/>
+      <point x="431" y="286"/>
+      <point x="458" y="326"/>
+      <point x="468" y="370" type="curve" smooth="yes"/>
+      <point x="490" y="465"/>
+      <point x="427" y="544"/>
+      <point x="327" y="544" type="curve" smooth="yes"/>
+      <point x="227" y="544"/>
+      <point x="128" y="465"/>
+      <point x="106" y="370" type="curve" smooth="yes"/>
+      <point x="85" y="282"/>
+      <point x="135" y="210"/>
+      <point x="218" y="197" type="curve"/>
+      <point x="4" y="1" type="line"/>
+      <point x="64" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="289" type="curve" smooth="yes"/>
+      <point x="222" y="289"/>
+      <point x="196" y="325"/>
+      <point x="207" y="370" type="curve" smooth="yes"/>
+      <point x="217" y="413"/>
+      <point x="259" y="450"/>
+      <point x="305" y="450" type="curve" smooth="yes"/>
+      <point x="351" y="450"/>
+      <point x="377" y="413"/>
+      <point x="367" y="370" type="curve" smooth="yes"/>
+      <point x="356" y="325"/>
+      <point x="314" y="289"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 13:15:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

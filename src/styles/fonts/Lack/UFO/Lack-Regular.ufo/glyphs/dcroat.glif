@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="1">
+  <advance width="664"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="397" y="537" type="line"/>
+      <point x="654" y="537" type="line"/>
+      <point x="654" y="627" type="line"/>
+      <point x="397" y="627" type="line"/>
+    </contour>
+    <component base="d"/>
+    <contour>
+      <point x="516" y="580" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

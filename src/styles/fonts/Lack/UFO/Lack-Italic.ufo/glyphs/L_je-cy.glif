@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lje-cy" format="1">
+  <advance width="988"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="-59" y="0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="617" y="679" type="line"/>
+      <point x="500" y="679" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="322"/>
+    <contour>
+      <point x="732" y="1" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="374" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Softsign-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:33:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

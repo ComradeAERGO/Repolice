@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iishort-cy" format="1">
+  <advance width="641"/>
+  <unicode hex="0439"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="brevecomb" xOffset="139" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-27 18:46:19 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dotlessi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ii-cy</string>
+    </dict>
+  </lib>
+</glyph>

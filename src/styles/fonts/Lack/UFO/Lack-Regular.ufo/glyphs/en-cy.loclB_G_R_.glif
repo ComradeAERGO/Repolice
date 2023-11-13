@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="en-cy.loclBGR" format="1">
+  <advance width="639"/>
+  <outline>
+    <component base="en-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-30 18:01:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

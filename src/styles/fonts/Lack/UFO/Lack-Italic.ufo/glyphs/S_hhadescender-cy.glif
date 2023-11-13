@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shhadescender-cy" format="1">
+  <advance width="768"/>
+  <unicode hex="0526"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="240" y="166"/>
+      <point x="382" y="396"/>
+      <point x="502" y="396" type="curve" smooth="yes"/>
+      <point x="536" y="396"/>
+      <point x="537" y="371"/>
+      <point x="525" y="320" type="curve" smooth="yes"/>
+      <point x="451" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="643" y="360" type="line" smooth="yes"/>
+      <point x="660" y="431"/>
+      <point x="649" y="500"/>
+      <point x="546" y="500" type="curve" smooth="yes"/>
+      <point x="433" y="500"/>
+      <point x="292" y="377"/>
+      <point x="203" y="211" type="curve"/>
+      <point x="311" y="679" type="line"/>
+      <point x="202" y="679" type="line"/>
+    </contour>
+    <component base="upturn" xOffset="619"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:43:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

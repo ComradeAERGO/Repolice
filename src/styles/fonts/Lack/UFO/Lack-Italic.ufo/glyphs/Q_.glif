@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="1">
+  <advance width="803"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="338" y="-15" type="line"/>
+      <point x="720" y="-15" type="line"/>
+      <point x="743" y="87" type="line"/>
+      <point x="361" y="87" type="line"/>
+    </contour>
+    <component base="O"/>
+    <contour>
+      <point x="354" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="511" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 15:14:54 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

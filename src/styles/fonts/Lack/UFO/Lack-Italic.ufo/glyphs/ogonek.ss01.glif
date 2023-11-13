@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek.ss01" format="1">
+  <advance width="228"/>
+  <outline>
+    <contour>
+      <point x="1" y="-170" type="line"/>
+      <point x="119" y="-170" type="line"/>
+      <point x="70" y="9" type="line"/>
+      <point x="-48" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="9" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:22:56 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

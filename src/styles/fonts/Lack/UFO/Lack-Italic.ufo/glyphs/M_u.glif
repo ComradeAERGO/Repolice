@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mu" format="1">
+  <advance width="831"/>
+  <unicode hex="039C"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="261" y="530" type="line"/>
+      <point x="365" y="263" type="line"/>
+      <point x="466" y="263" type="line"/>
+      <point x="696" y="530" type="line"/>
+      <point x="573" y="0" type="line"/>
+      <point x="681" y="0" type="line"/>
+      <point x="838" y="679" type="line"/>
+      <point x="702" y="679" type="line"/>
+      <point x="441" y="376" type="line"/>
+      <point x="324" y="679" type="line"/>
+      <point x="187" y="679" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:05:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

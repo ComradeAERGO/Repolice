@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shcha-cy" format="1">
+  <advance width="898"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="710" y="0" type="line"/>
+      <point x="830" y="517" type="line"/>
+      <point x="728" y="517" type="line"/>
+      <point x="629" y="88" type="line"/>
+      <point x="438" y="88" type="line"/>
+      <point x="537" y="517" type="line"/>
+      <point x="435" y="517" type="line"/>
+      <point x="336" y="88" type="line"/>
+      <point x="149" y="88" type="line"/>
+      <point x="248" y="517" type="line"/>
+      <point x="146" y="517" type="line"/>
+    </contour>
+    <component base="cy-term" yxScale="0.231" xOffset="361"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:30:55 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

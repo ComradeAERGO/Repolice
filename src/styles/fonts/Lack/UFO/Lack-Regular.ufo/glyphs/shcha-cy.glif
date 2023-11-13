@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shcha-cy" format="1">
+  <advance width="898"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="770" y="0" type="line"/>
+      <point x="770" y="517" type="line"/>
+      <point x="668" y="517" type="line"/>
+      <point x="668" y="88" type="line"/>
+      <point x="477" y="88" type="line"/>
+      <point x="477" y="517" type="line"/>
+      <point x="375" y="517" type="line"/>
+      <point x="375" y="88" type="line"/>
+      <point x="188" y="88" type="line"/>
+      <point x="188" y="517" type="line"/>
+      <point x="86" y="517" type="line"/>
+    </contour>
+    <component base="cy-term" xOffset="421"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

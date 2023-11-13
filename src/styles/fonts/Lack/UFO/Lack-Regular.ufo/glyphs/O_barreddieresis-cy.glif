@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obarreddieresis-cy" format="1">
+  <advance width="793"/>
+  <unicode hex="04EA"/>
+  <outline>
+    <component base="Fita-cy"/>
+    <component base="dieresiscomb" xOffset="221" yOffset="162"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-31 10:56:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

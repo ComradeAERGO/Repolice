@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.calt" format="1">
+  <advance width="272"/>
+  <outline>
+    <contour>
+      <point x="-93" y="-224" type="curve"/>
+      <point x="-32" y="-224"/>
+      <point x="15" y="-209"/>
+      <point x="50" y="-180" type="curve" smooth="yes"/>
+      <point x="85" y="-151"/>
+      <point x="116" y="-77"/>
+      <point x="142" y="42" type="curve"/>
+      <point x="252" y="518" type="line"/>
+      <point x="144" y="518" type="line"/>
+      <point x="15" y="-40" type="line" smooth="yes"/>
+      <point x="4" y="-89"/>
+      <point x="-24" y="-128"/>
+      <point x="-72" y="-128" type="curve"/>
+      <point x="-83" y="-176" type="line" smooth="yes"/>
+      <point x="-90" y="-208"/>
+      <point x="-93" y="-224"/>
+    </contour>
+    <contour>
+      <point x="210" y="591" type="curve" smooth="yes"/>
+      <point x="245" y="591"/>
+      <point x="278" y="618"/>
+      <point x="286" y="652" type="curve" smooth="yes"/>
+      <point x="294" y="687"/>
+      <point x="273" y="714"/>
+      <point x="238" y="714" type="curve" smooth="yes"/>
+      <point x="204" y="714"/>
+      <point x="171" y="687"/>
+      <point x="163" y="652" type="curve" smooth="yes"/>
+      <point x="155" y="618"/>
+      <point x="176" y="591"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:13:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

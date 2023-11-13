@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshO" format="1">
+  <advance width="566"/>
+  <outline>
+    <contour>
+      <point x="15" y="-15" type="line"/>
+      <point x="611" y="454" type="line"/>
+      <point x="551" y="532" type="line"/>
+      <point x="-45" y="63" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="258" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:09:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

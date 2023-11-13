@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent.ss02" format="1">
+  <advance width="791"/>
+  <outline>
+    <contour>
+      <point x="106" y="-8" type="line"/>
+      <point x="239" y="-8" type="line"/>
+      <point x="239" y="474" type="line"/>
+      <point x="576" y="-8" type="line"/>
+      <point x="737" y="-8" type="line"/>
+      <point x="487" y="348" type="line"/>
+      <point x="762" y="707" type="line"/>
+      <point x="605" y="707" type="line"/>
+      <point x="414" y="453" type="line"/>
+      <point x="235" y="707" type="line"/>
+      <point x="106" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="8" type="line"/>
+      <point x="122" y="691" type="line"/>
+      <point x="227" y="691" type="line"/>
+      <point x="414" y="425" type="line"/>
+      <point x="613" y="691" type="line"/>
+      <point x="730" y="691" type="line"/>
+      <point x="467" y="348" type="line"/>
+      <point x="707" y="8" type="line"/>
+      <point x="584" y="8" type="line"/>
+      <point x="223" y="524" type="line"/>
+      <point x="223" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="-218" type="line"/>
+      <point x="285" y="-218" type="line"/>
+      <point x="419" y="-31" type="line"/>
+      <point x="285" y="-31" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="-202" type="line"/>
+      <point x="295" y="-47" type="line"/>
+      <point x="387" y="-47" type="line"/>
+      <point x="277" y="-202" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:23:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

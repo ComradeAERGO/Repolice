@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresistonos" format="1">
+  <advance width="610"/>
+  <unicode hex="03B0"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dieresistonos" xOffset="133" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-31 10:55:55 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>upsilon</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>upsilon</string>
+    </dict>
+  </lib>
+</glyph>

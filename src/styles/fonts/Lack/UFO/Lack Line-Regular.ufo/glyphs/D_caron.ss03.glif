@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron.ss03" format="1">
+  <advance width="705"/>
+  <outline>
+    <contour>
+      <point x="213" y="-22" type="line"/>
+      <point x="418" y="-25"/>
+      <point x="638" y="78"/>
+      <point x="638" y="342" type="curve" smooth="yes"/>
+      <point x="638" y="604"/>
+      <point x="434" y="708"/>
+      <point x="239" y="708" type="curve" smooth="yes"/>
+      <point x="96" y="708" type="line"/>
+      <point x="96" y="269" type="line"/>
+      <point x="364" y="269" type="line"/>
+      <point x="364" y="387" type="line"/>
+      <point x="229" y="387" type="line"/>
+      <point x="229" y="583" type="line"/>
+      <point x="406" y="580"/>
+      <point x="504" y="495"/>
+      <point x="504" y="342" type="curve" smooth="yes"/>
+      <point x="504" y="165"/>
+      <point x="349" y="100"/>
+      <point x="213" y="103" type="curve"/>
+    </contour>
+    <contour>
+      <point x="229" y="-6" type="curve"/>
+      <point x="229" y="87" type="line"/>
+      <point x="365" y="90"/>
+      <point x="520" y="161"/>
+      <point x="520" y="342" type="curve" smooth="yes"/>
+      <point x="520" y="509"/>
+      <point x="409" y="602"/>
+      <point x="213" y="599" type="curve"/>
+      <point x="213" y="371" type="line"/>
+      <point x="348" y="371" type="line"/>
+      <point x="348" y="285" type="line"/>
+      <point x="112" y="285" type="line"/>
+      <point x="112" y="692" type="line"/>
+      <point x="239" y="692" type="line" smooth="yes"/>
+      <point x="430" y="692"/>
+      <point x="622" y="594"/>
+      <point x="622" y="342" type="curve" smooth="yes"/>
+      <point x="622" y="94"/>
+      <point x="426" y="-3"/>
+    </contour>
+    <contour>
+      <point x="319" y="740" type="line"/>
+      <point x="440" y="740" type="line"/>
+      <point x="555" y="927" type="line"/>
+      <point x="436" y="927" type="line"/>
+      <point x="380" y="850" type="line"/>
+      <point x="323" y="927" type="line"/>
+      <point x="204" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="756" type="line"/>
+      <point x="232" y="911" type="line"/>
+      <point x="315" y="911" type="line"/>
+      <point x="380" y="822" type="line"/>
+      <point x="444" y="911" type="line"/>
+      <point x="527" y="911" type="line"/>
+      <point x="432" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:23:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

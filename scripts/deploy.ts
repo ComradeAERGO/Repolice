@@ -4,7 +4,7 @@ async function main() {
   const Repolice = await ethers.getContractFactory("Repolice");
   const repolice = await Repolice.deploy();
 
-  console.log("Repolive deployed to:", repolice.address);
+  console.log("Repolice deployed to:", repolice.address);
 }
 
 main()

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="entail-cy" format="1">
+  <advance width="659"/>
+  <unicode hex="04CA"/>
+  <outline>
+    <contour>
+      <point x="417" y="-205" type="line"/>
+      <point x="529" y="-205" type="line"/>
+      <point x="649" y="88" type="line"/>
+      <point x="539" y="88" type="line"/>
+      <point x="539" y="517" type="line"/>
+      <point x="432" y="517" type="line"/>
+      <point x="432" y="308" type="line"/>
+      <point x="167" y="308" type="line"/>
+      <point x="167" y="517" type="line"/>
+      <point x="60" y="517" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="167" y="220" type="line"/>
+      <point x="432" y="220" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

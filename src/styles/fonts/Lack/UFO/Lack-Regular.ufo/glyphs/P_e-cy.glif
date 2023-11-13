@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pe-cy" format="1">
+  <advance width="728"/>
+  <unicode hex="041F"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="198" y="577" type="line"/>
+      <point x="530" y="577" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+      <point x="638" y="679" type="line"/>
+      <point x="90" y="679" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex" format="1">
+  <advance width="750"/>
+  <unicode hex="00C2"/>
+  <note>
+    Acircumflex
+  </note>
+  <outline>
+    <contour>
+      <point x="-54" y="-8" type="line"/>
+      <point x="93" y="-8" type="line"/>
+      <point x="198" y="153" type="line"/>
+      <point x="507" y="153" type="line"/>
+      <point x="535" y="-8" type="line"/>
+      <point x="679" y="-8" type="line"/>
+      <point x="530" y="687" type="line"/>
+      <point x="415" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="8" type="line"/>
+      <point x="423" y="671" type="line"/>
+      <point x="518" y="671" type="line"/>
+      <point x="659" y="8" type="line"/>
+      <point x="549" y="8" type="line"/>
+      <point x="521" y="169" type="line"/>
+      <point x="190" y="169" type="line"/>
+      <point x="85" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="271" type="line"/>
+      <point x="440" y="520" type="line"/>
+      <point x="487" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="255" type="line"/>
+      <point x="507" y="255" type="line"/>
+      <point x="448" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="305" y="740" type="line"/>
+      <point x="426" y="740" type="line"/>
+      <point x="501" y="817" type="line"/>
+      <point x="539" y="740" type="line"/>
+      <point x="657" y="740" type="line"/>
+      <point x="584" y="927" type="line"/>
+      <point x="462" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="756" type="line"/>
+      <point x="470" y="911" type="line"/>
+      <point x="574" y="911" type="line"/>
+      <point x="633" y="756" type="line"/>
+      <point x="549" y="756" type="line"/>
+      <point x="505" y="845" type="line"/>
+      <point x="420" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

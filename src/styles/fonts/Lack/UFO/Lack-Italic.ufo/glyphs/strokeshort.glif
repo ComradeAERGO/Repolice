@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshort" format="1">
+  <advance width="287"/>
+  <outline>
+    <contour>
+      <point x="20" y="250" type="line"/>
+      <point x="267" y="250" type="line"/>
+      <point x="267" y="360" type="line"/>
+      <point x="20" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="303" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

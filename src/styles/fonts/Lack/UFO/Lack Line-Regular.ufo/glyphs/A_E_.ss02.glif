@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE.ss02" format="1">
+  <advance width="980"/>
+  <note>
+    AE.ss02
+  </note>
+  <outline>
+    <contour>
+      <point x="10" y="-8" type="line"/>
+      <point x="892" y="-8" type="line"/>
+      <point x="892" y="110" type="line"/>
+      <point x="611" y="110" type="line"/>
+      <point x="611" y="294" type="line"/>
+      <point x="802" y="294" type="line"/>
+      <point x="802" y="412" type="line"/>
+      <point x="611" y="412" type="line"/>
+      <point x="611" y="589" type="line"/>
+      <point x="892" y="589" type="line"/>
+      <point x="892" y="707" type="line"/>
+      <point x="481" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="8" type="line"/>
+      <point x="489" y="691" type="line"/>
+      <point x="876" y="691" type="line"/>
+      <point x="876" y="605" type="line"/>
+      <point x="595" y="605" type="line"/>
+      <point x="595" y="396" type="line"/>
+      <point x="786" y="396" type="line"/>
+      <point x="786" y="310" type="line"/>
+      <point x="595" y="310" type="line"/>
+      <point x="595" y="94" type="line"/>
+      <point x="876" y="94" type="line"/>
+      <point x="876" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="110" type="line"/>
+      <point x="477" y="494" type="line"/>
+      <point x="477" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="94" type="line"/>
+      <point x="493" y="94" type="line"/>
+      <point x="493" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

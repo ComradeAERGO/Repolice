@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="De-cy.loclBGR" format="1">
+  <advance width="777"/>
+  <outline>
+    <component base="De-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 10:44:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

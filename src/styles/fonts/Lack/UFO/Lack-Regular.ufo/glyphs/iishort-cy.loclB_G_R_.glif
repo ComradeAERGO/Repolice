@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iishort-cy.loclBGR" format="1">
+  <advance width="641"/>
+  <outline>
+    <component base="ii-cy.loclBGR"/>
+    <component base="brevecomb-cy" xOffset="247" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-01-30 18:01:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

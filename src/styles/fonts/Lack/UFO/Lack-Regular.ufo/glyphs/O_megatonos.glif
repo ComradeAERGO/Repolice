@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegatonos" format="1">
+  <advance width="794"/>
+  <unicode hex="038F"/>
+  <outline>
+    <component base="Omega"/>
+    <component base="acute" xOffset="324" yOffset="162"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-31 10:50:00 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Omega</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Omega</string>
+    </dict>
+  </lib>
+</glyph>

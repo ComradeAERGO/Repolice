@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="1">
+  <advance width="655"/>
+  <unicode hex="03A5"/>
+  <note>
+    Upsilon
+  </note>
+  <outline>
+    <contour>
+      <point x="265" y="-8" type="line"/>
+      <point x="391" y="-8" type="line"/>
+      <point x="391" y="289" type="line"/>
+      <point x="661" y="687" type="line"/>
+      <point x="518" y="687" type="line"/>
+      <point x="328" y="400" type="line"/>
+      <point x="137" y="687" type="line"/>
+      <point x="-6" y="687" type="line"/>
+      <point x="265" y="289" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="8" type="line"/>
+      <point x="281" y="293" type="line"/>
+      <point x="24" y="671" type="line"/>
+      <point x="129" y="671" type="line"/>
+      <point x="328" y="372" type="line"/>
+      <point x="526" y="671" type="line"/>
+      <point x="631" y="671" type="line"/>
+      <point x="375" y="293" type="line"/>
+      <point x="375" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

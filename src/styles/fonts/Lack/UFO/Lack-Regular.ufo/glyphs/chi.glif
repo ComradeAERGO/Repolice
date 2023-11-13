@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="1">
+  <advance width="525"/>
+  <unicode hex="03C7"/>
+  <outline>
+    <contour>
+      <point x="0" y="-216" type="line"/>
+      <point x="118" y="-216" type="line"/>
+      <point x="262" y="90" type="line"/>
+      <point x="407" y="-216" type="line"/>
+      <point x="525" y="-216" type="line"/>
+      <point x="331" y="178" type="line"/>
+      <point x="492" y="517" type="line"/>
+      <point x="374" y="517" type="line"/>
+      <point x="266" y="269" type="line"/>
+      <point x="150" y="517" type="line"/>
+      <point x="33" y="517" type="line"/>
+      <point x="194" y="184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

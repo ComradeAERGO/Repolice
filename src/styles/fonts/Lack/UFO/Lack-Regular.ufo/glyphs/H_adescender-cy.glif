@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hadescender-cy" format="1">
+  <advance width="723"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <component base="X"/>
+    <component base="upturn" xOffset="604"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-24 13:27:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

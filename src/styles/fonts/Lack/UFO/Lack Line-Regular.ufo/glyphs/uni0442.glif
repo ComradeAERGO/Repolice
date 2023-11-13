@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0442" format="1">
+  <advance width="550"/>
+  <unicode hex="0442"/>
+  <note>
+    uni0442
+  </note>
+  <outline>
+    <contour>
+      <point x="214" y="-8" type="line"/>
+      <point x="338" y="-8" type="line"/>
+      <point x="338" y="421" type="line"/>
+      <point x="538" y="421" type="line"/>
+      <point x="538" y="525" type="line"/>
+      <point x="12" y="525" type="line"/>
+      <point x="12" y="421" type="line"/>
+      <point x="214" y="421" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="8" type="line"/>
+      <point x="230" y="437" type="line"/>
+      <point x="28" y="437" type="line"/>
+      <point x="28" y="509" type="line"/>
+      <point x="522" y="509" type="line"/>
+      <point x="522" y="437" type="line"/>
+      <point x="322" y="437" type="line"/>
+      <point x="322" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

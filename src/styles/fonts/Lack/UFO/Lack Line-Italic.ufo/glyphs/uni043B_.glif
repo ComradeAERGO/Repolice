@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043B" format="1">
+  <advance width="639"/>
+  <unicode hex="043B"/>
+  <note>
+    uni043B
+  </note>
+  <outline>
+    <contour>
+      <point x="-55" y="-8" type="line"/>
+      <point x="84" y="-8" type="line"/>
+      <point x="352" y="379" type="line"/>
+      <point x="443" y="-8" type="line"/>
+      <point x="569" y="-8" type="line"/>
+      <point x="440" y="525" type="line"/>
+      <point x="321" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="-25" y="8" type="line"/>
+      <point x="329" y="509" type="line"/>
+      <point x="428" y="509" type="line"/>
+      <point x="549" y="8" type="line"/>
+      <point x="455" y="8" type="line"/>
+      <point x="360" y="417" type="line"/>
+      <point x="76" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

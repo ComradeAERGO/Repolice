@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0335" format="1">
+  <advance width="0"/>
+  <unicode hex="0335"/>
+  <note>
+    uni0335
+  </note>
+  <outline>
+    <contour>
+      <point x="-377" y="252" type="line"/>
+      <point x="-14" y="252" type="line"/>
+      <point x="11" y="358" type="line"/>
+      <point x="-352" y="358" type="line"/>
+    </contour>
+    <contour>
+      <point x="-357" y="268" type="line"/>
+      <point x="-340" y="342" type="line"/>
+      <point x="-9" y="342" type="line"/>
+      <point x="-26" y="268" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

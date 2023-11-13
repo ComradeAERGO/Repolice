@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="750"/>
+  <unicode hex="00C0"/>
+  <note>
+    Agrave
+  </note>
+  <outline>
+    <contour>
+      <point x="-54" y="-8" type="line"/>
+      <point x="93" y="-8" type="line"/>
+      <point x="198" y="153" type="line"/>
+      <point x="507" y="153" type="line"/>
+      <point x="535" y="-8" type="line"/>
+      <point x="679" y="-8" type="line"/>
+      <point x="530" y="687" type="line"/>
+      <point x="415" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="8" type="line"/>
+      <point x="423" y="671" type="line"/>
+      <point x="518" y="671" type="line"/>
+      <point x="659" y="8" type="line"/>
+      <point x="549" y="8" type="line"/>
+      <point x="521" y="169" type="line"/>
+      <point x="190" y="169" type="line"/>
+      <point x="85" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="271" type="line"/>
+      <point x="440" y="520" type="line"/>
+      <point x="487" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="255" type="line"/>
+      <point x="507" y="255" type="line"/>
+      <point x="448" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="427" y="740" type="line"/>
+      <point x="544" y="740" type="line"/>
+      <point x="488" y="927" type="line"/>
+      <point x="336" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="756" type="line"/>
+      <point x="362" y="911" type="line"/>
+      <point x="476" y="911" type="line"/>
+      <point x="522" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

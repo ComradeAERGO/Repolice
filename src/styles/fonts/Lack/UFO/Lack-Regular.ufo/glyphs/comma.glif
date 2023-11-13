@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="333"/>
+  <unicode hex="002C"/>
+  <note>
+    comma
+  </note>
+  <outline>
+    <contour>
+      <point x="20" y="-151" type="line"/>
+      <point x="122" y="-151" type="line"/>
+      <point x="243" y="105" type="line"/>
+      <point x="110" y="105" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A.ss02" format="1">
+  <advance width="827"/>
+  <note>
+    A
+  </note>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="801" y="0" type="line"/>
+      <point x="411" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="56" type="line"/>
+      <point x="434" y="536" type="line"/>
+      <point x="390" y="536" type="line"/>
+      <point x="634" y="58" type="line"/>
+      <point x="661" y="101" type="line"/>
+      <point x="161" y="99" type="line"/>
+    </contour>
+    <contour>
+      <point x="801" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="414" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:27:12 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

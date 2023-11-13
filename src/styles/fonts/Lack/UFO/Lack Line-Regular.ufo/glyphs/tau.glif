@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="1">
+  <advance width="561"/>
+  <unicode hex="03C4"/>
+  <note>
+    tau
+  </note>
+  <outline>
+    <contour>
+      <point x="220" y="-8" type="line"/>
+      <point x="344" y="-8" type="line"/>
+      <point x="344" y="421" type="line"/>
+      <point x="529" y="421" type="line"/>
+      <point x="529" y="525" type="line"/>
+      <point x="32" y="525" type="line"/>
+      <point x="32" y="421" type="line"/>
+      <point x="220" y="421" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="8" type="line"/>
+      <point x="236" y="437" type="line"/>
+      <point x="48" y="437" type="line"/>
+      <point x="48" y="509" type="line"/>
+      <point x="513" y="509" type="line"/>
+      <point x="513" y="437" type="line"/>
+      <point x="328" y="437" type="line"/>
+      <point x="328" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent" format="1">
+  <advance width="502"/>
+  <unicode hex="021B"/>
+  <outline>
+    <contour>
+      <point x="196" y="-8" type="line"/>
+      <point x="320" y="-8" type="line"/>
+      <point x="320" y="435" type="line"/>
+      <point x="497" y="435" type="line"/>
+      <point x="497" y="539" type="line"/>
+      <point x="320" y="539" type="line"/>
+      <point x="320" y="713" type="line"/>
+      <point x="-17" y="435" type="line"/>
+      <point x="196" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="8" type="line"/>
+      <point x="212" y="451" type="line"/>
+      <point x="27" y="451" type="line"/>
+      <point x="304" y="679" type="line"/>
+      <point x="304" y="523" type="line"/>
+      <point x="481" y="523" type="line"/>
+      <point x="481" y="451" type="line"/>
+      <point x="304" y="451" type="line"/>
+      <point x="304" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="-218" type="line"/>
+      <point x="197" y="-218" type="line"/>
+      <point x="331" y="-31" type="line"/>
+      <point x="197" y="-31" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="-202" type="line"/>
+      <point x="207" y="-47" type="line"/>
+      <point x="299" y="-47" type="line"/>
+      <point x="189" y="-202" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="351" y="401" type="move" name="caron-t"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:32:05 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

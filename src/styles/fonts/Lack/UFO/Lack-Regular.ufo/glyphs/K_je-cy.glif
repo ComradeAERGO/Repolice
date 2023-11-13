@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kje-cy" format="1">
+  <advance width="696"/>
+  <unicode hex="040C"/>
+  <outline>
+    <component base="Ka-cy"/>
+    <component base="acutecomb" xOffset="263" yOffset="162"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-27 19:04:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

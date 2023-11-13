@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="268"/>
+  <unicode hex="006C"/>
+  <note>
+    l
+  </note>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="289" y="697" type="line"/>
+      <point x="177" y="679" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="267" y="401" type="move" name="caron-t"/>
+    </contour>
+    <contour>
+      <point x="162" y="368" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="331" y="355" type="move" name="middle"/>
+    </contour>
+    <contour>
+      <point x="231" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 13:38:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

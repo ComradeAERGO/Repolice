@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.ss02" format="1">
+  <advance width="791"/>
+  <note>
+    K.ss02
+  </note>
+  <outline>
+    <contour>
+      <point x="44" y="-8" type="line"/>
+      <point x="177" y="-8" type="line"/>
+      <point x="290" y="475" type="line"/>
+      <point x="515" y="-8" type="line"/>
+      <point x="675" y="-8" type="line"/>
+      <point x="508" y="346" type="line"/>
+      <point x="867" y="707" type="line"/>
+      <point x="708" y="707" type="line"/>
+      <point x="458" y="453" type="line"/>
+      <point x="338" y="707" type="line"/>
+      <point x="210" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="8" type="line"/>
+      <point x="222" y="691" type="line"/>
+      <point x="328" y="691" type="line"/>
+      <point x="454" y="425" type="line"/>
+      <point x="714" y="691" type="line"/>
+      <point x="829" y="691" type="line"/>
+      <point x="488" y="350" type="line"/>
+      <point x="649" y="8" type="line"/>
+      <point x="525" y="8" type="line"/>
+      <point x="284" y="523" type="line"/>
+      <point x="165" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

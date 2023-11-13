@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex.ss03" format="1">
+  <advance width="801"/>
+  <outline>
+    <contour>
+      <point x="-58" y="-8" type="line"/>
+      <point x="732" y="-8" type="line"/>
+      <point x="412" y="708" type="line"/>
+      <point x="259" y="708" type="line"/>
+      <point x="378" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="8" type="line"/>
+      <point x="398" y="432" type="line"/>
+      <point x="283" y="692" type="line"/>
+      <point x="402" y="692" type="line"/>
+      <point x="708" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="113" type="line"/>
+      <point x="427" y="324" type="line"/>
+      <point x="521" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="97" type="line"/>
+      <point x="545" y="97" type="line"/>
+      <point x="431" y="352" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="740" type="line"/>
+      <point x="400" y="740" type="line"/>
+      <point x="475" y="817" type="line"/>
+      <point x="513" y="740" type="line"/>
+      <point x="631" y="740" type="line"/>
+      <point x="558" y="927" type="line"/>
+      <point x="436" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="756" type="line"/>
+      <point x="444" y="911" type="line"/>
+      <point x="548" y="911" type="line"/>
+      <point x="607" y="756" type="line"/>
+      <point x="523" y="756" type="line"/>
+      <point x="479" y="845" type="line"/>
+      <point x="394" y="756" type="line"/>
+    </contour>
+    <contour>
+      <point x="720" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="442" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:19:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

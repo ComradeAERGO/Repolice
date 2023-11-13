@@ -38,6 +38,41 @@
   --callout-border-rgb: 172, 175, 176;
   --card-rgb: 180, 185, 188;
   --card-border-rgb: 131, 134, 135;
+
+  --primary: #ff8acd;
+  --secondary: #000000;
+
+  --decorative-pink-50: #ffc6e7;
+  --decorative-pink-70: #ffc6e7;
+  --decorative-pink-90: #ffe2f3;
+
+  --decorative-purple-50: #b37dff;
+  --decorative-purple-70: #d9beff;
+  --decorative-purple-90: #f0e5ff;
+
+  --decorative-blue-50: #8af1ff;
+  --decorative-blue-70: #b3f6ff;
+  --decorative-blue-90: #d6faff;
+
+  --decorative-yellow-50: #ffff2b;
+  --decorative-yellow-70: #fffe59;
+  --decorative-yellow-90: #ffffbc;
+
+  --decorative-green-50: #76f7ae;
+  --decorative-green-70: #adface;
+  --decorative-green-90: #cffce3;
+
+  --feedback-danger-50: #ff5454;
+  --feedback-danger-90: #ffd6d6;
+
+  --feedback-warning-50: #ff9f69;
+  --feedback-warning-90: #ffead1;
+
+  --feedback-success-50: #3cd39d;
+
+  --separator-90: #e2e2e2;
+  --body-90: #fffbee;
+  --white-100: #ffffff;
 }
 
 @media (prefers-color-scheme: dark) {

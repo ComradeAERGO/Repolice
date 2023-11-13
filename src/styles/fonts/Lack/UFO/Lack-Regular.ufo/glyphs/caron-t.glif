@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron-t" format="1">
+  <advance width="113"/>
+  <outline>
+    <contour>
+      <point x="10" y="542" type="line"/>
+      <point x="77" y="542" type="line"/>
+      <point x="143" y="698" type="line"/>
+      <point x="34" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="402" type="move" name="_caron-t"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

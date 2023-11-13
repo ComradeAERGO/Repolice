@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043A.loclBGR" format="1">
+  <advance width="551"/>
+  <note>
+    uni043A.loclBGR
+  </note>
+  <outline>
+    <contour>
+      <point x="10" y="-8" type="line"/>
+      <point x="134" y="-8" type="line"/>
+      <point x="187" y="217" type="line"/>
+      <point x="342" y="-8" type="line"/>
+      <point x="487" y="-8" type="line"/>
+      <point x="282" y="273" type="line"/>
+      <point x="596" y="525" type="line"/>
+      <point x="425" y="525" type="line"/>
+      <point x="217" y="351" type="line"/>
+      <point x="258" y="525" type="line"/>
+      <point x="134" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="8" type="line"/>
+      <point x="146" y="509" type="line"/>
+      <point x="238" y="509" type="line"/>
+      <point x="191" y="307" type="line"/>
+      <point x="431" y="509" type="line"/>
+      <point x="550" y="509" type="line"/>
+      <point x="260" y="275" type="line"/>
+      <point x="455" y="8" type="line"/>
+      <point x="350" y="8" type="line"/>
+      <point x="179" y="255" type="line"/>
+      <point x="122" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

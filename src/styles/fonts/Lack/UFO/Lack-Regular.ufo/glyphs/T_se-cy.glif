@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tse-cy" format="1">
+  <advance width="812"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="653" y="0" type="line"/>
+      <point x="653" y="679" type="line"/>
+      <point x="545" y="679" type="line"/>
+      <point x="545" y="102" type="line"/>
+      <point x="198" y="102" type="line"/>
+      <point x="198" y="679" type="line"/>
+      <point x="90" y="679" type="line"/>
+    </contour>
+    <component base="upturn" xOffset="653" yOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

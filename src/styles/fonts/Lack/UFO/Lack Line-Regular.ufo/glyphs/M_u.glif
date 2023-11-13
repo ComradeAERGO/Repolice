@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mu" format="1">
+  <advance width="831"/>
+  <unicode hex="039C"/>
+  <note>
+    Mu
+  </note>
+  <outline>
+    <contour>
+      <point x="82" y="-8" type="line"/>
+      <point x="206" y="-8" type="line"/>
+      <point x="206" y="502" type="line"/>
+      <point x="360" y="255" type="line"/>
+      <point x="469" y="255" type="line"/>
+      <point x="625" y="502" type="line"/>
+      <point x="625" y="-8" type="line"/>
+      <point x="749" y="-8" type="line"/>
+      <point x="749" y="687" type="line"/>
+      <point x="601" y="687" type="line"/>
+      <point x="414" y="391" type="line"/>
+      <point x="231" y="687" type="line"/>
+      <point x="82" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="8" type="line"/>
+      <point x="98" y="671" type="line"/>
+      <point x="223" y="671" type="line"/>
+      <point x="414" y="361" type="line"/>
+      <point x="609" y="671" type="line"/>
+      <point x="733" y="671" type="line"/>
+      <point x="733" y="8" type="line"/>
+      <point x="641" y="8" type="line"/>
+      <point x="641" y="558" type="line"/>
+      <point x="461" y="271" type="line"/>
+      <point x="368" y="271" type="line"/>
+      <point x="190" y="558" type="line"/>
+      <point x="190" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

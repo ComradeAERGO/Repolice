@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acut" format="1">
+  <advance width="607"/>
+  <note>
+    AE
+  </note>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="238" y="161" type="line"/>
+      <point x="499" y="161" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="607" y="679" type="line"/>
+      <point x="487" y="679" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="263" type="line"/>
+      <point x="499" y="532" type="line"/>
+      <point x="499" y="263" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="0" type="move" name="#exit"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

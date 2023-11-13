@@ -8,11 +8,9 @@ import { createWrapper } from "next-redux-wrapper";
 import { persistReducer, persistStore } from "redux-persist";
 import storage from "redux-persist/lib/storage";
 import { pollsSlice } from "./slices/polls";
-import { api } from "@/services/repolice";
 import { setupListeners } from "@reduxjs/toolkit/query";
 
 const rootReducer = combineReducers({
-  [api.reducerPath]: api.reducer,
   [pollsSlice.name]: pollsSlice.reducer,
   //[userVotesSlice.name]: userVotesSlice.reducer,
   //[userSlice.name]: userSlice.reducer,
@@ -21,8 +19,6 @@ const rootReducer = combineReducers({
 const makeConfiguredStore = () => {
   const store = configureStore({
     reducer: rootReducer,
-    middleware: (getDefaultMiddleware) =>
-      getDefaultMiddleware().concat(api.middleware),
     devTools: true,
   });
   setupListeners(store.dispatch);
@@ -42,8 +38,6 @@ export const makeStore = () => {
     const persistedReducer = persistReducer(persistConfig, rootReducer);
     let store: any = configureStore({
       reducer: persistedReducer,
-      middleware: (getDefaultMiddleware) =>
-        getDefaultMiddleware().concat(api.middleware),
       devTools: process.env.NODE_ENV !== "production",
     });
     store.__persistor = persistStore(store); // Nasty hack

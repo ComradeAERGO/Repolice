@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="1">
+  <advance width="528"/>
+  <note>
+    one
+  </note>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="96" type="line"/>
+      <point x="323" y="96" type="line"/>
+      <point x="323" y="517" type="line"/>
+      <point x="54" y="517" type="line"/>
+      <point x="54" y="422" type="line"/>
+      <point x="214" y="422" type="line"/>
+      <point x="214" y="96" type="line"/>
+      <point x="54" y="96" type="line"/>
+    </contour>
+    <contour>
+      <point x="384" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="269" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 13:14:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhedieresis-cy" format="1">
+  <advance width="728"/>
+  <unicode hex="04DD"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="curve"/>
+      <point x="170" y="0" type="line"/>
+      <point x="185" y="42"/>
+      <point x="198" y="85"/>
+      <point x="215" y="127" type="curve" smooth="yes"/>
+      <point x="241" y="191"/>
+      <point x="255" y="221"/>
+      <point x="313" y="222" type="curve"/>
+      <point x="313" y="0" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="411" y="222" type="line"/>
+      <point x="412" y="222" type="line" smooth="yes"/>
+      <point x="473" y="222"/>
+      <point x="487" y="192"/>
+      <point x="513" y="127" type="curve" smooth="yes"/>
+      <point x="530" y="85"/>
+      <point x="543" y="42"/>
+      <point x="558" y="0" type="curve"/>
+      <point x="668" y="0" type="line"/>
+      <point x="647" y="54"/>
+      <point x="627" y="108"/>
+      <point x="605" y="162" type="curve" smooth="yes"/>
+      <point x="579" y="227"/>
+      <point x="560" y="264"/>
+      <point x="508" y="279" type="curve"/>
+      <point x="530" y="294"/>
+      <point x="541" y="316"/>
+      <point x="548" y="359" type="curve" smooth="yes"/>
+      <point x="557" y="419"/>
+      <point x="599" y="432"/>
+      <point x="648" y="432" type="curve"/>
+      <point x="648" y="520" type="line"/>
+      <point x="524" y="519"/>
+      <point x="476" y="462"/>
+      <point x="464" y="394" type="curve" smooth="yes"/>
+      <point x="454" y="335"/>
+      <point x="447" y="313"/>
+      <point x="411" y="310" type="curve"/>
+      <point x="411" y="517" type="line"/>
+      <point x="313" y="517" type="line"/>
+      <point x="313" y="311" type="line"/>
+      <point x="280" y="315"/>
+      <point x="274" y="337"/>
+      <point x="264" y="394" type="curve" smooth="yes"/>
+      <point x="252" y="462"/>
+      <point x="204" y="519"/>
+      <point x="80" y="520" type="curve"/>
+      <point x="80" y="432" type="line"/>
+      <point x="129" y="432"/>
+      <point x="171" y="419"/>
+      <point x="180" y="359" type="curve" smooth="yes"/>
+      <point x="187" y="316"/>
+      <point x="198" y="294"/>
+      <point x="220" y="279" type="curve"/>
+      <point x="168" y="264"/>
+      <point x="149" y="227"/>
+      <point x="123" y="162" type="curve" smooth="yes"/>
+      <point x="101" y="108"/>
+      <point x="81" y="54"/>
+    </contour>
+    <component base="dieresiscomb" xOffset="174"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

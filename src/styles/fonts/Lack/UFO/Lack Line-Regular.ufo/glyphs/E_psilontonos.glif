@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilontonos" format="1">
+  <advance width="642"/>
+  <unicode hex="0388"/>
+  <note>
+    Epsilontonos
+  </note>
+  <outline>
+    <contour>
+      <point x="82" y="-8" type="line"/>
+      <point x="600" y="-8" type="line"/>
+      <point x="600" y="110" type="line"/>
+      <point x="207" y="110" type="line"/>
+      <point x="207" y="303" type="line"/>
+      <point x="515" y="303" type="line"/>
+      <point x="515" y="421" type="line"/>
+      <point x="207" y="421" type="line"/>
+      <point x="207" y="569" type="line"/>
+      <point x="594" y="569" type="line"/>
+      <point x="594" y="687" type="line"/>
+      <point x="82" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="8" type="line"/>
+      <point x="98" y="671" type="line"/>
+      <point x="578" y="671" type="line"/>
+      <point x="578" y="585" type="line"/>
+      <point x="191" y="585" type="line"/>
+      <point x="191" y="405" type="line"/>
+      <point x="499" y="405" type="line"/>
+      <point x="499" y="319" type="line"/>
+      <point x="191" y="319" type="line"/>
+      <point x="191" y="94" type="line"/>
+      <point x="584" y="94" type="line"/>
+      <point x="584" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="740" type="line"/>
+      <point x="393" y="740" type="line"/>
+      <point x="527" y="927" type="line"/>
+      <point x="373" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="756" type="line"/>
+      <point x="383" y="911" type="line"/>
+      <point x="495" y="911" type="line"/>
+      <point x="385" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

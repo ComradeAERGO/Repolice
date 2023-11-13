@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshort" format="1">
+  <advance width="287"/>
+  <note>
+    strokeshort
+  </note>
+  <outline>
+    <contour>
+      <point x="12" y="242" type="line"/>
+      <point x="275" y="242" type="line"/>
+      <point x="275" y="368" type="line"/>
+      <point x="12" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="258" type="line"/>
+      <point x="28" y="352" type="line"/>
+      <point x="259" y="352" type="line"/>
+      <point x="259" y="258" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

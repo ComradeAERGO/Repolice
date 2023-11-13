@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="504"/>
+  <unicode hex="00AB"/>
+  <note>
+    guillemotleft
+  </note>
+  <outline>
+    <contour>
+      <point x="352" y="52" type="line"/>
+      <point x="489" y="52" type="line"/>
+      <point x="354" y="264" type="line"/>
+      <point x="489" y="466" type="line"/>
+      <point x="352" y="466" type="line"/>
+      <point x="216" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="68" type="line"/>
+      <point x="236" y="264" type="line"/>
+      <point x="360" y="450" type="line"/>
+      <point x="459" y="450" type="line"/>
+      <point x="334" y="264" type="line"/>
+      <point x="459" y="68" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="52" type="line"/>
+      <point x="299" y="52" type="line"/>
+      <point x="164" y="264" type="line"/>
+      <point x="299" y="466" type="line"/>
+      <point x="162" y="466" type="line"/>
+      <point x="26" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="68" type="line"/>
+      <point x="46" y="264" type="line"/>
+      <point x="170" y="450" type="line"/>
+      <point x="269" y="450" type="line"/>
+      <point x="144" y="264" type="line"/>
+      <point x="269" y="68" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

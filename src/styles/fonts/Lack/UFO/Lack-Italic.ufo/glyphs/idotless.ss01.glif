@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless.ss01" format="1">
+  <advance width="448"/>
+  <note>
+    dotlessi
+  </note>
+  <outline>
+    <contour>
+      <point x="-10" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="359" y="88" type="line"/>
+      <point x="239" y="88" type="line"/>
+      <point x="338" y="518" type="line"/>
+      <point x="230" y="518" type="line"/>
+      <point x="131" y="88" type="line"/>
+      <point x="11" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="1" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="283" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:13:49 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

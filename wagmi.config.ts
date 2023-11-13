@@ -1,8 +1,7 @@
 import { defineConfig } from "@wagmi/cli";
 import { hardhat, react } from "@wagmi/cli/plugins";
-import { abi } from "./artifacts/contracts/Repolice.sol/Repolice.json";
 
-const SEPOLIA_REPOLICE = "0xDA092E403Fce0C278eA55191966aa603FacF9fDF";
+const SEPOLIA_REPOLICE = "0x170F2FBC19270Ef156edbEC5D769b30861af2E1D";
 export default defineConfig({
   out: "src/RepoliceABI.ts",
   // contracts: [

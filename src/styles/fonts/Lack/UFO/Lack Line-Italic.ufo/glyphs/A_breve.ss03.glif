@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve.ss03" format="1">
+  <advance width="801"/>
+  <outline>
+    <contour>
+      <point x="-58" y="-8" type="line"/>
+      <point x="732" y="-8" type="line"/>
+      <point x="412" y="708" type="line"/>
+      <point x="259" y="708" type="line"/>
+      <point x="378" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="8" type="line"/>
+      <point x="398" y="432" type="line"/>
+      <point x="283" y="692" type="line"/>
+      <point x="402" y="692" type="line"/>
+      <point x="708" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="113" type="line"/>
+      <point x="427" y="324" type="line"/>
+      <point x="521" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="97" type="line"/>
+      <point x="545" y="97" type="line"/>
+      <point x="431" y="352" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="740" type="curve" smooth="yes"/>
+      <point x="583" y="740"/>
+      <point x="653" y="847"/>
+      <point x="668" y="927" type="curve"/>
+      <point x="550" y="927" type="line"/>
+      <point x="546" y="901"/>
+      <point x="520" y="844"/>
+      <point x="477" y="844" type="curve" smooth="yes"/>
+      <point x="435" y="844"/>
+      <point x="437" y="902"/>
+      <point x="447" y="927" type="curve"/>
+      <point x="329" y="927" type="line"/>
+      <point x="300" y="818"/>
+      <point x="353" y="740"/>
+    </contour>
+    <contour>
+      <point x="457" y="756" type="curve" smooth="yes"/>
+      <point x="349" y="756"/>
+      <point x="326" y="837"/>
+      <point x="341" y="911" type="curve"/>
+      <point x="426" y="911" type="line"/>
+      <point x="422" y="879"/>
+      <point x="430" y="828"/>
+      <point x="477" y="828" type="curve" smooth="yes"/>
+      <point x="524" y="828"/>
+      <point x="554" y="880"/>
+      <point x="563" y="911" type="curve"/>
+      <point x="648" y="911" type="line"/>
+      <point x="627" y="838"/>
+      <point x="565" y="756"/>
+    </contour>
+    <contour>
+      <point x="720" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="442" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:19:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

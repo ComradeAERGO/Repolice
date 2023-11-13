@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chedescenderabkhasian-cy" format="1">
+  <advance width="732"/>
+  <unicode hex="04BF"/>
+  <outline>
+    <contour>
+      <point x="236" y="233" type="curve"/>
+      <point x="236" y="316" type="line"/>
+      <point x="145" y="318"/>
+      <point x="85" y="344"/>
+      <point x="117" y="448" type="curve"/>
+      <point x="26" y="448" type="line"/>
+      <point x="-7" y="288"/>
+      <point x="96" y="233"/>
+    </contour>
+    <component base="e" xOffset="136"/>
+    <component base="ogonekcomb" xOffset="390"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:43:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

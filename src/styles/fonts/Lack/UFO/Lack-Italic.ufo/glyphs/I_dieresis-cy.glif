@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis-cy" format="1">
+  <advance width="757"/>
+  <unicode hex="04E4"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="170" yOffset="162"/>
+    <component base="Ii-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:43:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyterm" format="1">
+  <advance width="561"/>
+  <note>
+    cyterm
+  </note>
+  <outline>
+    <contour>
+      <point x="327" y="-213" type="line"/>
+      <point x="445" y="-213" type="line"/>
+      <point x="445" y="96" type="line"/>
+      <point x="327" y="96" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="-197" type="line"/>
+      <point x="343" y="80" type="line"/>
+      <point x="429" y="80" type="line"/>
+      <point x="429" y="-197" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

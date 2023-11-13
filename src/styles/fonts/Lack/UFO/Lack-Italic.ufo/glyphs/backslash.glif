@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="1">
+  <advance width="455"/>
+  <unicode hex="005C"/>
+  <note>
+    backslash
+  </note>
+  <outline>
+    <contour>
+      <point x="265" y="-57" type="line"/>
+      <point x="382" y="-57" type="line"/>
+      <point x="219" y="700" type="line"/>
+      <point x="102" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:15:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

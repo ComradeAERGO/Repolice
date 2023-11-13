@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <NavigationMenuRoot>
       <NavigationMenuList>
-        <NavigationMenu.Item>
+        {/* <NavigationMenu.Item>
           <StyledLink href={"/cast"}>Cast</StyledLink>
         </NavigationMenu.Item>
         <NavigationMenu.Item>
@@ -18,8 +18,8 @@ const Header = () => {
         </NavigationMenu.Item>
         <NavigationMenu.Item>
           <StyledLink href={"/results"}>Results</StyledLink>
-        </NavigationMenu.Item>
-        {/* <Profile /> */}
+        </NavigationMenu.Item> */}
+        <Profile />
       </NavigationMenuList>
     </NavigationMenuRoot>
   );
@@ -29,8 +29,10 @@ const NavigationMenuRoot = styled(NavigationMenu.Root)`
   position: relative;
   display: flex;
   justify-content: center;
+  padding: 1rem;
   width: 100vw;
   z-index: 1;
+  background-color: var(--decorative-yellow-70);
 `;
 
 const NavigationMenuList = styled(NavigationMenu.List)`
@@ -42,7 +44,6 @@ const NavigationMenuList = styled(NavigationMenu.List)`
   padding: 4px;
   border-radius: 6px;
   list-style: none;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   margin: 0;
 `;
 
@@ -51,7 +52,6 @@ const StyledLink = styled(Link)`
   text-decoration: none;
   font-weight: 500;
   font-size: 15px;
-  color: #ffffff;
   cursor: pointer;
 `;
 

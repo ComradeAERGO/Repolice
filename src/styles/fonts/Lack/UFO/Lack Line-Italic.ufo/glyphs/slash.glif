@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="455"/>
+  <unicode hex="002F"/>
+  <note>
+    slash
+  </note>
+  <outline>
+    <contour>
+      <point x="-88" y="-65" type="line"/>
+      <point x="58" y="-65" type="line"/>
+      <point x="572" y="708" type="line"/>
+      <point x="426" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="-58" y="-49" type="line"/>
+      <point x="434" y="692" type="line"/>
+      <point x="542" y="692" type="line"/>
+      <point x="50" y="-49" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

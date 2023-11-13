@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.ss03" format="1">
+  <advance width="753"/>
+  <note>
+    Y.ss03
+  </note>
+  <outline>
+    <contour>
+      <point x="-1" y="-8" type="line"/>
+      <point x="160" y="-8" type="line"/>
+      <point x="855" y="707" type="line"/>
+      <point x="698" y="707" type="line"/>
+      <point x="447" y="451" type="line"/>
+      <point x="315" y="707" type="line"/>
+      <point x="160" y="707" type="line"/>
+      <point x="345" y="347" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="8" type="line"/>
+      <point x="365" y="345" type="line"/>
+      <point x="186" y="691" type="line"/>
+      <point x="305" y="691" type="line"/>
+      <point x="443" y="425" type="line"/>
+      <point x="704" y="691" type="line"/>
+      <point x="817" y="691" type="line"/>
+      <point x="154" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

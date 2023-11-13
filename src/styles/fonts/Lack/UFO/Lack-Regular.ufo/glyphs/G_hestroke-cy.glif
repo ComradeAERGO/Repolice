@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ghestroke-cy" format="1">
+  <advance width="675"/>
+  <unicode hex="0492"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="284" y="311" type="line"/>
+      <point x="593" y="311" type="line"/>
+      <point x="593" y="413" type="line"/>
+      <point x="284" y="413" type="line"/>
+      <point x="284" y="577" type="line"/>
+      <point x="672" y="577" type="line"/>
+      <point x="672" y="679" type="line"/>
+      <point x="176" y="679" type="line"/>
+      <point x="176" y="413" type="line"/>
+      <point x="40" y="413" type="line"/>
+      <point x="40" y="311" type="line"/>
+      <point x="176" y="311" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 15:18:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

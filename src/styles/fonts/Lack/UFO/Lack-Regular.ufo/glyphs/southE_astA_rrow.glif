@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southEastArrow" format="1">
+  <advance width="589"/>
+  <unicode hex="2198"/>
+  <outline>
+    <contour>
+      <point x="485" y="90" type="line"/>
+      <point x="538" y="143" type="line"/>
+      <point x="127" y="576" type="line"/>
+      <point x="50" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="90" type="line"/>
+      <point x="539" y="143" type="line"/>
+      <point x="175" y="249" type="line"/>
+      <point x="89" y="163" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="90" type="line"/>
+      <point x="539" y="143" type="line"/>
+      <point x="464" y="541" type="line"/>
+      <point x="378" y="455" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 21:04:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

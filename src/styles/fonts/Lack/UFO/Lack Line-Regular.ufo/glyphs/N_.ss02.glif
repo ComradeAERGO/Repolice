@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.ss02" format="1">
+  <advance width="791"/>
+  <note>
+    N.ss02
+  </note>
+  <outline>
+    <contour>
+      <point x="106" y="-8" type="line"/>
+      <point x="239" y="-8" type="line"/>
+      <point x="239" y="521" type="line"/>
+      <point x="553" y="250" type="line"/>
+      <point x="553" y="-8" type="line"/>
+      <point x="686" y="-8" type="line"/>
+      <point x="686" y="707" type="line"/>
+      <point x="553" y="707" type="line"/>
+      <point x="553" y="430" type="line"/>
+      <point x="239" y="702" type="line"/>
+      <point x="239" y="707" type="line"/>
+      <point x="106" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="8" type="line"/>
+      <point x="122" y="691" type="line"/>
+      <point x="223" y="691" type="line"/>
+      <point x="223" y="694" type="line"/>
+      <point x="569" y="396" type="line"/>
+      <point x="569" y="691" type="line"/>
+      <point x="670" y="691" type="line"/>
+      <point x="670" y="8" type="line"/>
+      <point x="569" y="8" type="line"/>
+      <point x="569" y="258" type="line"/>
+      <point x="223" y="555" type="line"/>
+      <point x="223" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

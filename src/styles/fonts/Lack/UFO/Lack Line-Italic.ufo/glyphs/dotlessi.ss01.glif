@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi.ss01" format="1">
+  <advance width="448"/>
+  <note>
+    dotlessi.ss01
+  </note>
+  <outline>
+    <contour>
+      <point x="-20" y="-8" type="line"/>
+      <point x="344" y="-8" type="line"/>
+      <point x="369" y="96" type="line"/>
+      <point x="249" y="96" type="line"/>
+      <point x="348" y="526" type="line"/>
+      <point x="224" y="526" type="line"/>
+      <point x="125" y="96" type="line"/>
+      <point x="5" y="96" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="8" type="line"/>
+      <point x="17" y="80" type="line"/>
+      <point x="137" y="80" type="line"/>
+      <point x="236" y="510" type="line"/>
+      <point x="328" y="510" type="line"/>
+      <point x="229" y="80" type="line"/>
+      <point x="349" y="80" type="line"/>
+      <point x="332" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

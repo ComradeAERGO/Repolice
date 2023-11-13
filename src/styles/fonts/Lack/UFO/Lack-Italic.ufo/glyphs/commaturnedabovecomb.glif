@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb" format="1">
+  <advance width="200"/>
+  <unicode hex="0312"/>
+  <outline>
+    <contour>
+      <point x="96" y="586" type="line"/>
+      <point x="229" y="586" type="line"/>
+      <point x="358" y="757" type="line"/>
+      <point x="257" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:11:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

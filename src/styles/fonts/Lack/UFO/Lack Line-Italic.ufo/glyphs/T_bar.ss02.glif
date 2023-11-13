@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar.ss02" format="1">
+  <advance width="728"/>
+  <outline>
+    <contour>
+      <point x="293" y="244" type="line"/>
+      <point x="426" y="244" type="line"/>
+      <point x="455" y="369" type="line"/>
+      <point x="545" y="369" type="line"/>
+      <point x="570" y="475" type="line"/>
+      <point x="480" y="475" type="line"/>
+      <point x="506" y="590" type="line"/>
+      <point x="774" y="590" type="line"/>
+      <point x="802" y="707" type="line"/>
+      <point x="134" y="707" type="line"/>
+      <point x="106" y="590" type="line"/>
+      <point x="373" y="590" type="line"/>
+      <point x="347" y="475" type="line"/>
+      <point x="207" y="475" type="line"/>
+      <point x="182" y="369" type="line"/>
+      <point x="322" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="260" type="line"/>
+      <point x="342" y="385" type="line"/>
+      <point x="202" y="385" type="line"/>
+      <point x="219" y="459" type="line"/>
+      <point x="359" y="459" type="line"/>
+      <point x="393" y="606" type="line"/>
+      <point x="126" y="606" type="line"/>
+      <point x="146" y="691" type="line"/>
+      <point x="782" y="691" type="line"/>
+      <point x="762" y="606" type="line"/>
+      <point x="494" y="606" type="line"/>
+      <point x="460" y="459" type="line"/>
+      <point x="550" y="459" type="line"/>
+      <point x="533" y="385" type="line"/>
+      <point x="443" y="385" type="line"/>
+      <point x="414" y="260" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:19:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

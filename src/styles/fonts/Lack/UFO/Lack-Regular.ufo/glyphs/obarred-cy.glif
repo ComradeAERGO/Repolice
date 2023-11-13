@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obarred-cy" format="1">
+  <advance width="646"/>
+  <unicode hex="04E9"/>
+  <outline>
+    <component base="fita-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-24 09:39:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

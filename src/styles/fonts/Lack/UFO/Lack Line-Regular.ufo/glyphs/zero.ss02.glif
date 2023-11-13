@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.ss02" format="1">
+  <advance width="659"/>
+  <note>
+    zero.ss02
+  </note>
+  <outline>
+    <contour>
+      <point x="159" y="-8" type="line"/>
+      <point x="539" y="-8" type="line"/>
+      <point x="539" y="707" type="line"/>
+      <point x="120" y="707" type="line"/>
+      <point x="120" y="-7" type="line"/>
+      <point x="159" y="-7" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="8" type="line"/>
+      <point x="175" y="9" type="line"/>
+      <point x="136" y="9" type="line"/>
+      <point x="136" y="691" type="line"/>
+      <point x="523" y="691" type="line"/>
+      <point x="523" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="254" y="110" type="line"/>
+      <point x="254" y="589" type="line"/>
+      <point x="405" y="589" type="line"/>
+      <point x="405" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="94" type="line"/>
+      <point x="421" y="94" type="line"/>
+      <point x="421" y="605" type="line"/>
+      <point x="238" y="605" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

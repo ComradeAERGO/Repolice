@@ -7,12 +7,12 @@ type Props = {
 };
 
 const CardContainer = styled.div`
-  width: fit-content;
   border-radius: 0.375rem;
   border: 2px solid black;
-  background-color: #bc95d4;
+  background-color: var(--decorative-blue-50);
   font-weight: bold;
   box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 1);
+  width: min-content;
 `;
 
 const Header = styled.div`

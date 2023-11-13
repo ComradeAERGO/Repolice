@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.slash.ss02" format="1">
+  <advance width="649"/>
+  <note>
+    zero.slash
+  </note>
+  <outline>
+    <contour>
+      <point x="22" y="-85" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="609" y="619" type="line"/>
+      <point x="713" y="705" type="line"/>
+      <point x="713" y="705"/>
+      <point x="660" y="781"/>
+      <point x="658" y="776" type="curve" smooth="yes"/>
+      <point x="658" y="773"/>
+      <point x="610" y="734"/>
+      <point x="566" y="699" type="curve"/>
+      <point x="225" y="699" type="line"/>
+      <point x="80" y="74" type="line"/>
+      <point x="79" y="74"/>
+      <point x="-32" y="-14"/>
+      <point x="-32" y="-14" type="curve"/>
+    </contour>
+    <contour>
+      <point x="205" y="102" type="line"/>
+      <point x="319" y="597" type="line"/>
+      <point x="486" y="597" type="line"/>
+      <point x="372" y="102" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:26:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="730"/>
+  <unicode hex="25CA"/>
+  <note>
+    lozenge
+  </note>
+  <outline>
+    <contour>
+      <point x="309" y="-8" type="line"/>
+      <point x="431" y="-8" type="line"/>
+      <point x="670" y="340" type="line"/>
+      <point x="431" y="687" type="line"/>
+      <point x="309" y="687" type="line"/>
+      <point x="60" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="8" type="line"/>
+      <point x="80" y="340" type="line"/>
+      <point x="317" y="671" type="line"/>
+      <point x="423" y="671" type="line"/>
+      <point x="650" y="340" type="line"/>
+      <point x="423" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="100" type="line"/>
+      <point x="203" y="339" type="line"/>
+      <point x="370" y="579" type="line"/>
+      <point x="534" y="339" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="72" type="line"/>
+      <point x="554" y="339" type="line"/>
+      <point x="370" y="607" type="line"/>
+      <point x="183" y="339" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

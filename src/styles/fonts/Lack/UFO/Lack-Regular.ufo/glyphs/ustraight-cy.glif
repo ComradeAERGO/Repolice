@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustraight-cy" format="1">
+  <advance width="510"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="201" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="309" y="202" type="line"/>
+      <point x="505" y="518" type="line"/>
+      <point x="390" y="518" type="line"/>
+      <point x="255" y="293" type="line"/>
+      <point x="120" y="518" type="line"/>
+      <point x="5" y="518" type="line"/>
+      <point x="201" y="202" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 15:18:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

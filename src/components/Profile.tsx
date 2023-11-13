@@ -3,31 +3,29 @@ import {
   useConnect,
   useDisconnect,
   useEnsName,
+  useEnsAvatar,
   useNetwork,
 } from "wagmi";
 import styled from "styled-components";
 import { Space } from "@mantine/core";
 import Button from "./Button";
+import { InjectedConnector } from "wagmi/connectors/injected";
 
 export default function Profile() {
-  let ensName = undefined;
-
-  const { address, isConnected } = useAccount();
+  const { address, isConnected, connector } = useAccount();
+  // const { data: ensAvatar } = useEnsAvatar({ name: address });
+  // const { data: ensName } = useEnsName({ address });
   const { chain } = useNetwork();
   const { connect, connectors, error, isLoading, pendingConnector } =
-    useConnect();
+    useConnect({ connector: new InjectedConnector() });
   const { disconnect } = useDisconnect();
-
-  if (chain?.contracts?.ensUniversalResolver) {
-    // eslint-disable-next-line react-hooks/rules-of-hooks
-    ensName = useEnsName({ address });
-  }
 
   if (isConnected) {
     return (
       <Right>
         <Button onClick={() => disconnect()}>
-          <div>{ensName ? `${ensName} (${address})` : address}</div>
+          {/* <div>{ensName ? `${ensName} (${address})` : address}</div> */}
+          <div>{address}</div>
         </Button>
         <Space w="sm" />
         <Button disabled>{chain?.name}</Button>
@@ -41,12 +39,16 @@ export default function Profile() {
         <Button
           disabled={!connector.ready}
           key={connector.id}
-          onClick={() => connect({ connector })}
+          onClick={(event) => {
+            event.preventDefault();
+            connect({ connector });
+          }}
         >
-          {"Connect with " && connector.name}
+          {connector.name}
           {!connector.ready && " (unsupported)"}
           {isLoading &&
-            connector.id === pendingConnector?.id &&
+            pendingConnector &&
+            connector.id === pendingConnector.id &&
             " (connecting)"}
         </Button>
       ))}
@@ -61,4 +63,5 @@ const Right = styled.div`
   position: absolute;
   right: 0;
   padding-right: 2rem;
+  gap: 0.5rem;
 `;

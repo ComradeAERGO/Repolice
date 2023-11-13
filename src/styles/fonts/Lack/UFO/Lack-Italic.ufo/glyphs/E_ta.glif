@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eta" format="1">
+  <advance width="752"/>
+  <unicode hex="0397"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="211" y="311" type="line"/>
+      <point x="565" y="311" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="602" y="0" type="line"/>
+      <point x="759" y="679" type="line"/>
+      <point x="650" y="679" type="line"/>
+      <point x="589" y="413" type="line"/>
+      <point x="235" y="413" type="line"/>
+      <point x="296" y="679" type="line"/>
+      <point x="187" y="679" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:05:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

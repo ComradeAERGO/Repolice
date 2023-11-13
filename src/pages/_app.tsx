@@ -14,15 +14,23 @@ import { publicProvider } from "wagmi/providers/public";
 import { MetaMaskConnector } from "wagmi/connectors/metaMask";
 import { Layout } from "./Layout";
 import { MantineProvider } from "@mantine/core";
+import { InjectedConnector } from "wagmi/connectors/injected";
+import { alchemyProvider } from "wagmi/providers/alchemy";
 
 const { chains, publicClient, webSocketPublicClient } = configureChains(
   [mainnet, sepolia],
-  [publicProvider()]
+  [
+    alchemyProvider({ apiKey: "ZKSi2bnMz9GcnVpeGFCXkd2RQC_hUBB5" }),
+    publicProvider(),
+  ]
 );
 
 const config = createConfig({
   autoConnect: true,
-  connectors: [new MetaMaskConnector({ chains })],
+  connectors: [
+    new MetaMaskConnector({ chains }),
+    new InjectedConnector({ chains }),
+  ],
   publicClient,
   webSocketPublicClient,
 });

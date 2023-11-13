@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acut" format="1">
+  <advance width="607"/>
+  <note>
+    Acut
+  </note>
+  <outline>
+    <contour>
+      <point x="-16" y="-8" type="line"/>
+      <point x="129" y="-8" type="line"/>
+      <point x="242" y="153" type="line"/>
+      <point x="491" y="153" type="line"/>
+      <point x="491" y="-8" type="line"/>
+      <point x="615" y="-8" type="line"/>
+      <point x="615" y="687" type="line"/>
+      <point x="483" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="8" type="line"/>
+      <point x="491" y="671" type="line"/>
+      <point x="599" y="671" type="line"/>
+      <point x="599" y="8" type="line"/>
+      <point x="507" y="8" type="line"/>
+      <point x="507" y="169" type="line"/>
+      <point x="234" y="169" type="line"/>
+      <point x="121" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="271" type="line"/>
+      <point x="491" y="507" type="line"/>
+      <point x="491" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="255" type="line"/>
+      <point x="507" y="255" type="line"/>
+      <point x="507" y="557" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

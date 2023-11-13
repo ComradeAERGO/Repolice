@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tetse-cy" format="1">
+  <advance width="856"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="678" y="0" type="line"/>
+      <point x="835" y="679" type="line"/>
+      <point x="727" y="679" type="line"/>
+      <point x="594" y="102" type="line"/>
+      <point x="262" y="102" type="line"/>
+      <point x="374" y="589" type="line"/>
+      <point x="597" y="589" type="line"/>
+      <point x="618" y="679" type="line"/>
+      <point x="97" y="679" type="line"/>
+      <point x="76" y="589" type="line"/>
+      <point x="266" y="589" type="line"/>
+    </contour>
+    <component base="upturn" xOffset="737"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:43:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

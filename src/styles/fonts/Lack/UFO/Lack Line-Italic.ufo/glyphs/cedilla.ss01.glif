@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla.ss01" format="1">
+  <advance width="138"/>
+  <note>
+    cedilla.ss01
+  </note>
+  <outline>
+    <contour>
+      <point x="-99" y="-178" type="line"/>
+      <point x="35" y="-178" type="line"/>
+      <point x="80" y="17" type="line"/>
+      <point x="-54" y="17" type="line"/>
+    </contour>
+    <contour>
+      <point x="-79" y="-162" type="line"/>
+      <point x="-42" y="1" type="line"/>
+      <point x="60" y="1" type="line"/>
+      <point x="23" y="-162" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

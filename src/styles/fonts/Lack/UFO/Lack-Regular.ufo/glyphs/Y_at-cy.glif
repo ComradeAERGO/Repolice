@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yat-cy" format="1">
+  <advance width="772"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="0" y="507" type="line"/>
+      <point x="511" y="507" type="line"/>
+      <point x="511" y="597" type="line"/>
+      <point x="0" y="597" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="106"/>
+    <contour>
+      <point x="300" y="580" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Softsign-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 10:45:27 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+    </dict>
+  </lib>
+</glyph>

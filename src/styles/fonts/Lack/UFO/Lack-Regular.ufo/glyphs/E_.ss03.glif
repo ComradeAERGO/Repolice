@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.ss03" format="1">
+  <advance width="728"/>
+  <note>
+    E.alt
+  </note>
+  <outline>
+    <contour>
+      <point x="241" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="640" y="102" type="line"/>
+      <point x="359" y="102" type="line"/>
+      <point x="359" y="302" type="line"/>
+      <point x="572" y="302" type="line"/>
+      <point x="572" y="404" type="line"/>
+      <point x="359" y="404" type="line"/>
+      <point x="359" y="597" type="line"/>
+      <point x="640" y="597" type="line"/>
+      <point x="640" y="699" type="line"/>
+      <point x="241" y="699" type="line"/>
+      <point x="241" y="404" type="line"/>
+      <point x="50" y="404" type="line"/>
+      <point x="50" y="302" type="line"/>
+      <point x="241" y="302" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:27:12 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

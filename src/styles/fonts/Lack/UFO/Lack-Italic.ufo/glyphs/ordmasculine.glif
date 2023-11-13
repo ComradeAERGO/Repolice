@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="390"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="195" y="248" type="curve" smooth="yes"/>
+      <point x="275" y="248"/>
+      <point x="340" y="311"/>
+      <point x="340" y="388" type="curve" smooth="yes"/>
+      <point x="340" y="466"/>
+      <point x="275" y="529"/>
+      <point x="195" y="529" type="curve" smooth="yes"/>
+      <point x="114" y="529"/>
+      <point x="50" y="466"/>
+      <point x="50" y="388" type="curve" smooth="yes"/>
+      <point x="50" y="311"/>
+      <point x="114" y="248"/>
+    </contour>
+    <contour>
+      <point x="195" y="321" type="curve" smooth="yes"/>
+      <point x="155" y="321"/>
+      <point x="126" y="351"/>
+      <point x="126" y="388" type="curve" smooth="yes"/>
+      <point x="126" y="426"/>
+      <point x="155" y="457"/>
+      <point x="195" y="457" type="curve" smooth="yes"/>
+      <point x="234" y="457"/>
+      <point x="264" y="426"/>
+      <point x="264" y="388" type="curve" smooth="yes"/>
+      <point x="264" y="351"/>
+      <point x="234" y="321"/>
+    </contour>
+    <contour>
+      <point x="287" y="256" type="move" name="#exit"/>
+    </contour>
+    <contour>
+      <point x="195" y="388" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="195" y="521" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-01 16:25:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

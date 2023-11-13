@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshe-cy" format="1">
+  <advance width="770"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="145" y="0" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="314" y="260" type="line"/>
+      <point x="316" y="261" type="line"/>
+      <point x="335" y="344"/>
+      <point x="422" y="397"/>
+      <point x="506" y="397" type="curve" smooth="yes"/>
+      <point x="590" y="397"/>
+      <point x="631" y="341"/>
+      <point x="613" y="261" type="curve" smooth="yes"/>
+      <point x="552" y="0" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="733" y="272" type="line" smooth="yes"/>
+      <point x="766" y="414"/>
+      <point x="687" y="500"/>
+      <point x="540" y="500" type="curve" smooth="yes"/>
+      <point x="468" y="500"/>
+      <point x="406" y="476"/>
+      <point x="356" y="439" type="curve"/>
+      <point x="390" y="589" type="line"/>
+      <point x="597" y="589" type="line"/>
+      <point x="618" y="679" type="line"/>
+      <point x="97" y="679" type="line"/>
+      <point x="76" y="589" type="line"/>
+      <point x="281" y="589" type="line"/>
+      <point x="189" y="189" type="line"/>
+      <point x="186" y="179"/>
+      <point x="184" y="170"/>
+      <point x="181" y="160" type="curve"/>
+      <point x="182" y="161" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="633" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:33:14 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

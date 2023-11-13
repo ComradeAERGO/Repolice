@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="433"/>
+  <unicode hex="02DD"/>
+  <note>
+    grave
+  </note>
+  <outline>
+    <contour>
+      <point x="276" y="586" type="line"/>
+      <point x="377" y="586" type="line"/>
+      <point x="548" y="757" type="line"/>
+      <point x="415" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="586" type="line"/>
+      <point x="197" y="586" type="line"/>
+      <point x="358" y="757" type="line"/>
+      <point x="225" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:22:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

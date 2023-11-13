@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.ss02" format="1">
+  <advance width="602"/>
+  <note>
+    one
+  </note>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="103" type="line"/>
+      <point x="386" y="103" type="line"/>
+      <point x="386" y="698" type="line"/>
+      <point x="79" y="698" type="line"/>
+      <point x="79" y="596" type="line"/>
+      <point x="269" y="596" type="line"/>
+      <point x="269" y="103" type="line"/>
+      <point x="79" y="103" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:27:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

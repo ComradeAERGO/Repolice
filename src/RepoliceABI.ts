@@ -293,6 +293,26 @@ export const repoliceABI = [
   {
     stateMutability: 'view',
     type: 'function',
+    inputs: [],
+    name: 'getPolls',
+    outputs: [
+      {
+        name: '',
+        internalType: 'struct Repolice.Poll[]',
+        type: 'tuple[]',
+        components: [
+          { name: 'question', internalType: 'string', type: 'string' },
+          { name: 'options', internalType: 'string[]', type: 'string[]' },
+          { name: 'active', internalType: 'bool', type: 'bool' },
+          { name: 'endTime', internalType: 'uint256', type: 'uint256' },
+          { name: 'creator', internalType: 'address', type: 'address' },
+        ],
+      },
+    ],
+  },
+  {
+    stateMutability: 'view',
+    type: 'function',
     inputs: [{ name: 'user', internalType: 'address', type: 'address' }],
     name: 'getPollsByCreator',
     outputs: [{ name: '', internalType: 'uint256[]', type: 'uint256[]' }],
@@ -784,6 +804,25 @@ export function useRepoliceGetPollIdsVotedOn<
   return useContractRead({
     abi: repoliceABI,
     functionName: 'getPollIdsVotedOn',
+    ...config,
+  } as UseContractReadConfig<typeof repoliceABI, TFunctionName, TSelectData>)
+}
+
+/**
+ * Wraps __{@link useContractRead}__ with `abi` set to __{@link repoliceABI}__ and `functionName` set to `"getPolls"`.
+ */
+export function useRepoliceGetPolls<
+  TFunctionName extends 'getPolls',
+  TSelectData = ReadContractResult<typeof repoliceABI, TFunctionName>,
+>(
+  config: Omit<
+    UseContractReadConfig<typeof repoliceABI, TFunctionName, TSelectData>,
+    'abi' | 'functionName'
+  > = {} as any,
+) {
+  return useContractRead({
+    abi: repoliceABI,
+    functionName: 'getPolls',
     ...config,
   } as UseContractReadConfig<typeof repoliceABI, TFunctionName, TSelectData>)
 }

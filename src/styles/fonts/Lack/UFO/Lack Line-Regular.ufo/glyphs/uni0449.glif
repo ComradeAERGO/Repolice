@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0449" format="1">
+  <advance width="898"/>
+  <unicode hex="0449"/>
+  <note>
+    uni0449
+  </note>
+  <outline>
+    <contour>
+      <point x="748" y="-213" type="line"/>
+      <point x="866" y="-213" type="line"/>
+      <point x="866" y="96" type="line"/>
+      <point x="778" y="96" type="line"/>
+      <point x="778" y="525" type="line"/>
+      <point x="660" y="525" type="line"/>
+      <point x="660" y="96" type="line"/>
+      <point x="485" y="96" type="line"/>
+      <point x="485" y="525" type="line"/>
+      <point x="367" y="525" type="line"/>
+      <point x="367" y="96" type="line"/>
+      <point x="196" y="96" type="line"/>
+      <point x="196" y="525" type="line"/>
+      <point x="78" y="525" type="line"/>
+      <point x="78" y="-8" type="line"/>
+      <point x="748" y="-8" type="line"/>
+    </contour>
+    <contour>
+      <point x="764" y="-197" type="line"/>
+      <point x="764" y="8" type="line"/>
+      <point x="94" y="8" type="line"/>
+      <point x="94" y="509" type="line"/>
+      <point x="180" y="509" type="line"/>
+      <point x="180" y="80" type="line"/>
+      <point x="383" y="80" type="line"/>
+      <point x="383" y="509" type="line"/>
+      <point x="469" y="509" type="line"/>
+      <point x="469" y="80" type="line"/>
+      <point x="676" y="80" type="line"/>
+      <point x="676" y="509" type="line"/>
+      <point x="762" y="509" type="line"/>
+      <point x="762" y="80" type="line"/>
+      <point x="850" y="80" type="line"/>
+      <point x="850" y="-197" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

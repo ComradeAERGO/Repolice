@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash.ss03" format="1">
+  <advance width="621"/>
+  <note>
+    Oslash
+  </note>
+  <outline>
+    <component base="slashlongcomb" xOffset="-38" yOffset="139"/>
+    <component base="O.ss03"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 14:10:40 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

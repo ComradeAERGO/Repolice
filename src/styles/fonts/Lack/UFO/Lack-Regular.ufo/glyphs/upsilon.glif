@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilon" format="1">
+  <advance width="610"/>
+  <unicode hex="03C5"/>
+  <outline>
+    <contour>
+      <point x="305" y="-16" type="curve" smooth="yes"/>
+      <point x="370" y="-16"/>
+      <point x="540" y="-11"/>
+      <point x="540" y="209" type="curve" smooth="yes"/>
+      <point x="540" y="517" type="line"/>
+      <point x="432" y="517" type="line"/>
+      <point x="432" y="204" type="line" smooth="yes"/>
+      <point x="432" y="186"/>
+      <point x="427" y="79"/>
+      <point x="305" y="79" type="curve" smooth="yes"/>
+      <point x="183" y="79"/>
+      <point x="178" y="186"/>
+      <point x="178" y="204" type="curve" smooth="yes"/>
+      <point x="178" y="517" type="line"/>
+      <point x="70" y="517" type="line"/>
+      <point x="70" y="209" type="line" smooth="yes"/>
+      <point x="70" y="-11"/>
+      <point x="240" y="-16"/>
+    </contour>
+    <contour>
+      <point x="305" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

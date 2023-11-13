@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.slash" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="zero"/>
+    <component base="slash" xOffset="92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-31 10:06:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

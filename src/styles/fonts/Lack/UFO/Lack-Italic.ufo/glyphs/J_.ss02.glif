@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss02" format="1">
+  <advance width="471"/>
+  <note>
+    J
+  </note>
+  <outline>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="459" y="699" type="line"/>
+      <point x="134" y="699" type="line"/>
+      <point x="110" y="597" type="line"/>
+      <point x="318" y="597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:26:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

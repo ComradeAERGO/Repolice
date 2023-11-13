@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yi-cy" format="1">
+  <advance width="289"/>
+  <unicode hex="0407"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresiscomb" xOffset="-27" yOffset="162"/>
+    <contour>
+      <point x="145" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-31 11:00:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

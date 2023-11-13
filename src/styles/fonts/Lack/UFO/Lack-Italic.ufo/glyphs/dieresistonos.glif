@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="1">
+  <advance width="343"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="153" y="777" type="line"/>
+      <point x="430" y="777" type="line"/>
+      <point x="453" y="877" type="line"/>
+      <point x="176" y="877" type="line"/>
+    </contour>
+    <component base="dieresis" xOffset="-16"/>
+    <contour>
+      <point x="231" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 13:05:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

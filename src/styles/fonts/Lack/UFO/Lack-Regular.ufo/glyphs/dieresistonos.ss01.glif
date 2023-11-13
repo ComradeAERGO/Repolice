@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos.ss01" format="1">
+  <advance width="417"/>
+  <outline>
+    <contour>
+      <point x="10" y="737" type="line"/>
+      <point x="407" y="737" type="line"/>
+      <point x="407" y="837" type="line"/>
+      <point x="10" y="837" type="line"/>
+    </contour>
+    <component base="dieresis" xOffset="21"/>
+    <contour>
+      <point x="209" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

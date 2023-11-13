@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="263"/>
+  <unicode hex="0060"/>
+  <note>
+    grave
+  </note>
+  <outline>
+    <contour>
+      <point x="213" y="578" type="line"/>
+      <point x="330" y="578" type="line"/>
+      <point x="274" y="765" type="line"/>
+      <point x="122" y="765" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="594" type="line"/>
+      <point x="148" y="749" type="line"/>
+      <point x="262" y="749" type="line"/>
+      <point x="308" y="594" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

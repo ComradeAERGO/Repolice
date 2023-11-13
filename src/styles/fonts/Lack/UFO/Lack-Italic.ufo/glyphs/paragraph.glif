@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph" format="1">
+  <advance width="661"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="211" y="0" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="453" y="577" type="line"/>
+      <point x="537" y="577" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="668" y="679" type="line"/>
+      <point x="368" y="679" type="line" smooth="yes"/>
+      <point x="232" y="679"/>
+      <point x="124" y="602"/>
+      <point x="93" y="466" type="curve" smooth="yes"/>
+      <point x="66" y="348"/>
+      <point x="129" y="269"/>
+      <point x="273" y="269" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:20:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

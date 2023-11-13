@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicron" format="1">
+  <advance width="793"/>
+  <unicode hex="039F"/>
+  <outline>
+    <contour>
+      <point x="397" y="-15" type="curve" smooth="yes"/>
+      <point x="610" y="-15"/>
+      <point x="753" y="144"/>
+      <point x="753" y="340" type="curve" smooth="yes"/>
+      <point x="753" y="536"/>
+      <point x="610" y="695"/>
+      <point x="397" y="695" type="curve" smooth="yes"/>
+      <point x="184" y="695"/>
+      <point x="40" y="536"/>
+      <point x="40" y="340" type="curve" smooth="yes"/>
+      <point x="40" y="144"/>
+      <point x="184" y="-15"/>
+    </contour>
+    <contour>
+      <point x="397" y="88" type="curve" smooth="yes"/>
+      <point x="245" y="88"/>
+      <point x="153" y="199"/>
+      <point x="153" y="340" type="curve" smooth="yes"/>
+      <point x="153" y="481"/>
+      <point x="245" y="593"/>
+      <point x="397" y="593" type="curve" smooth="yes"/>
+      <point x="548" y="593"/>
+      <point x="641" y="481"/>
+      <point x="641" y="340" type="curve" smooth="yes"/>
+      <point x="641" y="199"/>
+      <point x="548" y="88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

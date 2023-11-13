@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gedescender-cy" format="1">
+  <advance width="510"/>
+  <unicode hex="04F7"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="cy-term" xOffset="-187"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-24 12:51:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

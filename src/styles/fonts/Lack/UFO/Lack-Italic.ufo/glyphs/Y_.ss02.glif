@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.ss02" format="1">
+  <advance width="720"/>
+  <note>
+    Y
+  </note>
+  <outline>
+    <contour>
+      <point x="245" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="436" y="319" type="line"/>
+      <point x="802" y="699" type="line"/>
+      <point x="654" y="699" type="line"/>
+      <point x="354" y="385" type="line"/>
+      <point x="424" y="377" type="line"/>
+      <point x="249" y="699" type="line"/>
+      <point x="114" y="699" type="line"/>
+      <point x="319" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:26:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

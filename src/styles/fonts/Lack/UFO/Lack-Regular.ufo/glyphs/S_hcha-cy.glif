@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shcha-cy" format="1">
+  <advance width="1039"/>
+  <unicode hex="0429"/>
+  <outline>
+    <component base="Sha-cy"/>
+    <component base="upturn" xOffset="880" yOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-24 13:34:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alpha" format="1">
+  <advance width="728"/>
+  <unicode hex="0391"/>
+  <outline>
+    <contour>
+      <point x="-54" y="0" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="174" y="161" type="line"/>
+      <point x="506" y="161" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="662" y="0" type="line"/>
+      <point x="518" y="679" type="line"/>
+      <point x="404" y="679" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="263" type="line"/>
+      <point x="434" y="563" type="line"/>
+      <point x="490" y="263" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 15:36:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

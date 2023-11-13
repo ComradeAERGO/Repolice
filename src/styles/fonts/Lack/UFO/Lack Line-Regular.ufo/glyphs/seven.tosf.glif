@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tosf" format="1">
+  <advance width="560"/>
+  <note>
+    seven.tosf
+  </note>
+  <outline>
+    <contour>
+      <point x="99" y="-170" type="line"/>
+      <point x="236" y="-170" type="line"/>
+      <point x="491" y="525" type="line"/>
+      <point x="72" y="525" type="line"/>
+      <point x="72" y="414" type="line"/>
+      <point x="318" y="414" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="-154" type="line"/>
+      <point x="342" y="430" type="line"/>
+      <point x="88" y="430" type="line"/>
+      <point x="88" y="509" type="line"/>
+      <point x="469" y="509" type="line"/>
+      <point x="224" y="-154" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-11 16:48:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

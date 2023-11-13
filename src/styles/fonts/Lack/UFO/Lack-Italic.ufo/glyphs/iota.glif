@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="1">
+  <advance width="268"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="248" y="517" type="line"/>
+      <point x="140" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:06:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

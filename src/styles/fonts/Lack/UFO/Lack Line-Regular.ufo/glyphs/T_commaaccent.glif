@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="1">
+  <advance width="664"/>
+  <unicode hex="021A"/>
+  <outline>
+    <contour>
+      <point x="270" y="-8" type="line"/>
+      <point x="394" y="-8" type="line"/>
+      <point x="394" y="569" type="line"/>
+      <point x="632" y="569" type="line"/>
+      <point x="632" y="687" type="line"/>
+      <point x="32" y="687" type="line"/>
+      <point x="32" y="569" type="line"/>
+      <point x="270" y="569" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="8" type="line"/>
+      <point x="286" y="585" type="line"/>
+      <point x="48" y="585" type="line"/>
+      <point x="48" y="671" type="line"/>
+      <point x="616" y="671" type="line"/>
+      <point x="616" y="585" type="line"/>
+      <point x="378" y="585" type="line"/>
+      <point x="378" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="-218" type="line"/>
+      <point x="279" y="-218" type="line"/>
+      <point x="413" y="-31" type="line"/>
+      <point x="279" y="-31" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="-202" type="line"/>
+      <point x="289" y="-47" type="line"/>
+      <point x="381" y="-47" type="line"/>
+      <point x="271" y="-202" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="332" y="420" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="332" y="679" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 22:32:05 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

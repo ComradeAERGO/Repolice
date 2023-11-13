@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nu" format="1">
+  <advance width="771"/>
+  <unicode hex="039D"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="198" y="519" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="681" y="0" type="line"/>
+      <point x="681" y="679" type="line"/>
+      <point x="573" y="679" type="line"/>
+      <point x="573" y="169" type="line"/>
+      <point x="210" y="679" type="line"/>
+      <point x="90" y="679" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-09 15:44:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="1">
+  <advance width="417"/>
+  <unicode hex="0384"/>
+  <note>
+    grave
+  </note>
+  <outline>
+    <contour>
+      <point x="89" y="601" type="line"/>
+      <point x="486" y="601" type="line"/>
+      <point x="509" y="701" type="line"/>
+      <point x="112" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="269" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 12:06:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

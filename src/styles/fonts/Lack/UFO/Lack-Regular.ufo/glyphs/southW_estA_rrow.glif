@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southWestArrow" format="1">
+  <advance width="586"/>
+  <unicode hex="2199"/>
+  <outline>
+    <contour>
+      <point x="103" y="87" type="line"/>
+      <point x="536" y="498" type="line"/>
+      <point x="459" y="575" type="line"/>
+      <point x="50" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="86" type="line"/>
+      <point x="209" y="450" type="line"/>
+      <point x="123" y="536" type="line"/>
+      <point x="50" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="86" type="line"/>
+      <point x="501" y="161" type="line"/>
+      <point x="415" y="247" type="line"/>
+      <point x="50" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-12 21:04:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

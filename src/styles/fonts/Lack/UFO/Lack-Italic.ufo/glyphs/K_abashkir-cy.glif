@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kabashkir-cy" format="1">
+  <advance width="808"/>
+  <unicode hex="04A0"/>
+  <outline>
+    <contour>
+      <point x="238" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="416" y="297" type="line"/>
+      <point x="496" y="297" type="line" smooth="yes"/>
+      <point x="576" y="297"/>
+      <point x="583" y="250"/>
+      <point x="598" y="166" type="curve" smooth="yes"/>
+      <point x="607" y="111"/>
+      <point x="611" y="55"/>
+      <point x="617" y="0" type="curve"/>
+      <point x="739" y="0" type="line"/>
+      <point x="729" y="71"/>
+      <point x="718" y="141"/>
+      <point x="706" y="212" type="curve" smooth="yes"/>
+      <point x="696" y="278"/>
+      <point x="682" y="329"/>
+      <point x="643" y="360" type="curve"/>
+      <point x="658" y="381"/>
+      <point x="672" y="408"/>
+      <point x="685" y="442" type="curve" smooth="yes"/>
+      <point x="728" y="547"/>
+      <point x="783" y="577"/>
+      <point x="847" y="577" type="curve"/>
+      <point x="870" y="679" type="line"/>
+      <point x="734" y="677"/>
+      <point x="654" y="603"/>
+      <point x="618" y="514" type="curve" smooth="yes"/>
+      <point x="585" y="430"/>
+      <point x="567" y="397"/>
+      <point x="509" y="397" type="curve" smooth="yes"/>
+      <point x="439" y="397" type="line"/>
+      <point x="504" y="679" type="line"/>
+      <point x="187" y="679" type="line"/>
+      <point x="166" y="589" type="line"/>
+      <point x="374" y="589" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-03-05 11:43:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
